@@ -19,8 +19,10 @@ fetch(
         strength.push(element);
 
         let domImage = `<div class="capacity"              data-unique="0${index}"
-        data-id=${element.id}
+        data-id=${element.id}     data-into = "${index}"
         >
+        <div class="score"></div>
+
             <img
               class="capacity-img"
               src="${element.imageLink}"
@@ -29,6 +31,15 @@ fetch(
               data-into = "${index}"
 
             />
+            <div class="centered">
+          <button type="button" class="player-btn btn btn-secondary" data-unique="0${index}" 
+            data-id=${element.id}  data-start="0" data-into="${index}"><span data-unique="0${index}" data-id=${element.id}  data-start="0" data-into="${index}">player
+            </span></button>
+          <button type="button" class="enemy-btn btn btn-secondary " data-unique="0${index}" data-id=${element.id}  data-start="0" data-into="${index}"><span data-unique="0${index}" data-id=${element.id}  data-start="0" data-into="${index}">enemy
+            </span></button>
+          <button type="button" class="view-btn btn btn-secondary " data-unique="0${index}" data-id=${element.id}  data-start="0" data-into="${index}"><span data-unique="0${index}" data-id=${element.id}  data-start="0" data-into="${index}">view
+            </span></button>
+        </div>
             <div id="selected"></div>
 
           </div>`;
@@ -41,8 +52,9 @@ fetch(
       if (element.imageLink) {
         agility.push(element);
         let domImage = `<div class="capacity"               data-unique="1${index}"
-        data-id=${element.id}
+        data-id=${element.id}  data-into = "${index}"
         >
+        <div class="score"></div>
 
               <img
                 class="capacity-img"
@@ -52,6 +64,16 @@ fetch(
               data-into = "${index}"
 
               />
+              <div class="centered">
+              <button type="button" class="player-btn btn btn-secondary" data-unique="1${index}"
+                data-id=${element.id}  data-start="1" data-into="${index}"><span data-unique="1${index}"
+                data-id=${element.id}  data-start="1" data-into="${index}">player
+                </span></button>
+              <button type="button" class="enemy-btn btn btn-secondary " data-unique="1${index}" data-id=${element.id} data-start="1" data-into="${index}"><span data-unique="1${index}" data-id=${element.id} data-start="1" data-into="${index}">enemy
+                </span></button>
+              <button type="button" class="view-btn btn btn-secondary " data-unique="1${index}" data-id=${element.id} data-start="1" data-into="${index}"><span data-unique="1${index}" data-id=${element.id} data-start="1" data-into="${index}">view
+                </span></button>
+            </div>
               <div id="selected"></div>
 
             </div>`;
@@ -63,21 +85,26 @@ fetch(
     data.intelligence.forEach((element, index) => {
       if (element.imageLink) {
         intelligence.push(element);
-        let domImage = `<div class="capacity"               data-unique="2${index}"
-        data-id=${element.id}
-        >
+        let domImage = `<div class="capacity" data-unique="2${index}" data-id=${element.id} data-into="${index}">
+        <div class="score"></div>
 
-                <img
-                  class="capacity-img"
-                  src="${element.imageLink}"
-                  alt=""
-                  data-start="2"
-              data-into = "${index}"
-
-                />
-                <div id="selected"></div>
-
-              </div>`;
+        <img class="capacity-img" src="${element.imageLink}" alt="" data-start="2" data-into="${index}" />
+        <div class="centered">
+          <button type="button" class="player-btn btn btn-secondary" data-unique="2${index}"
+            data-id=${element.id} data-start="2" data-into="${index}"><span  data-unique="2${index}"
+            data-id=${element.id} data-start="2" data-into="${index}">player
+            </span></button>
+          <button type="button" class="enemy-btn btn btn-secondary " data-unique="2${index}" data-id=${element.id}  data-start="2" data-into="${index}"><span  data-unique="2${index}"
+          data-id=${element.id} data-start="2" data-into="${index}">enemy
+            </span></button>
+          <button type="button" class="view-btn btn btn-secondary " data-unique="2${index}" data-id=${element.id}  data-start="2" data-into="${index}"><span  data-unique="2${index}"
+          data-id=${element.id} data-start="2" data-into="${index}">view
+            </span></button>
+        </div>
+      
+   
+      <div id="selected"></div>
+      </div>`;
 
         $("#box-container3").append(domImage);
       }
@@ -89,6 +116,7 @@ fetch(
   .catch((error) => console.log("error", error));
 
 let selectedCharArr = [];
+let selectedCharArrEnemy = [];
 const updateSelectedImage = () => {
   let list = document.querySelectorAll(".left-card  ");
   selectedCharArr.forEach((ele, index) => {
@@ -98,23 +126,71 @@ const updateSelectedImage = () => {
     list[index].querySelector("img").src = ele.imageLink;
     list[index].querySelector(".card-text").textContent = ele.name;
   });
+
+  let listright = document.querySelectorAll(".right-card");
+  selectedCharArrEnemy.forEach((ele, index) => {
+    // console.log(ele.childNodes);
+    // if(index )
+    listright[index].querySelector(".score").textContent = ele.score;
+    listright[index].querySelector("img").src = ele.imageLink;
+    listright[index].querySelector(".card-text").textContent = ele.name;
+  });
 };
 updateSelectedImage();
 let uniqueD = [];
 const runAfterImageLoaded = () => {
   putScore();
   console.log(allcharList);
-  document.querySelectorAll(".capacity-img").forEach((ele, index) => {
-    ele.addEventListener("click", (e) => {
+  document.querySelectorAll(".capacity").forEach((ele, index) => {
+    ele.querySelector(".enemy-btn").addEventListener("click", (e) => {
       console.log(e);
       let dataAttrStart = e.target.getAttribute("data-start");
       let dataAttrInto = e.target.getAttribute("data-into");
       let unique = e.target.parentNode.getAttribute("data-unique");
-      let se = e.target.parentNode.querySelector("#selected");
-      updateDetailsCard(
-        allcharList[dataAttrStart][dataAttrInto].id,
-        allcharList[dataAttrStart][dataAttrInto].imageLink
-      );
+      let se =
+        e.target.parentNode.parentNode.parentNode.querySelector("#selected");
+      // updateDetailsCard(
+      //   allcharList[dataAttrStart][dataAttrInto].id,
+      //   allcharList[dataAttrStart][dataAttrInto].imageLink
+      // );
+      if (selectedCharArrEnemy.length < 5) {
+        se.classList.add("selected");
+        // get score
+        selectedScore = "0";
+        scores.forEach((score) => {
+          if (score.heroId === allcharList[dataAttrStart][dataAttrInto].id) {
+            selectedScore = score.score;
+          }
+        });
+        // get score end
+        selectedCharArrEnemy.push({
+          score: selectedScore,
+          imageLink: allcharList[dataAttrStart][dataAttrInto].imageLink,
+          name: allcharList[dataAttrStart][dataAttrInto].name,
+        });
+        uniqueD.push(unique);
+      }
+      if (selectedCharArr.length === 5 && selectedCharArrEnemy.length === 5) {
+        document.querySelectorAll(".capacity").forEach((ele1) => {
+          let unique = ele1.getAttribute("data-unique");
+          if (!uniqueD.includes(unique)) {
+            ele1.style.opacity = "0.4";
+          }
+        });
+      }
+      updateSelectedImage();
+    });
+    ele.querySelector(".player-btn").addEventListener("click", (e) => {
+      console.log(e);
+      let dataAttrStart = e.target.getAttribute("data-start");
+      let dataAttrInto = e.target.getAttribute("data-into");
+      let unique = e.target.parentNode.getAttribute("data-unique");
+      let se =
+        e.target.parentNode.parentNode.parentNode.querySelector("#selected");
+      // updateDetailsCard(
+      //   allcharList[dataAttrStart][dataAttrInto].id,
+      //   allcharList[dataAttrStart][dataAttrInto].imageLink
+      // );
       if (selectedCharArr.length < 5) {
         se.classList.add("selected");
         // get score
@@ -132,7 +208,29 @@ const runAfterImageLoaded = () => {
         });
         uniqueD.push(unique);
       }
-      if (selectedCharArr.length === 5) {
+      if (selectedCharArr.length === 5 && selectedCharArrEnemy.length === 5) {
+        document.querySelectorAll(".capacity").forEach((ele1) => {
+          let unique = ele1.getAttribute("data-unique");
+          if (!uniqueD.includes(unique)) {
+            ele1.style.opacity = "0.4";
+          }
+        });
+      }
+      updateSelectedImage();
+    });
+    ele.querySelector(".view-btn").addEventListener("click", (e) => {
+      console.log(e);
+      let dataAttrStart = e.target.getAttribute("data-start");
+      let dataAttrInto = e.target.getAttribute("data-into");
+      let unique = e.target.parentNode.getAttribute("data-unique");
+      let se =
+        e.target.parentNode.parentNode.parentNode.querySelector("#selected");
+      updateDetailsCard(
+        allcharList[dataAttrStart][dataAttrInto].id,
+        allcharList[dataAttrStart][dataAttrInto].imageLink
+      );
+
+      if (selectedCharArr.length === 5 && selectedCharArrEnemy.length === 5) {
         document.querySelectorAll(".capacity").forEach((ele1) => {
           let unique = ele1.getAttribute("data-unique");
           if (!uniqueD.includes(unique)) {
@@ -195,6 +293,18 @@ const putScore = () => {
     .then((result) => {
       let data = JSON.parse(result).response.counterHeroes;
       // let data = console.log("score");
+      console.log("scores", data);
+      document.querySelectorAll(".capacity").forEach((ele, index) => {
+        let unique = ele.getAttribute("data-id");
+        let indi = [];
+        data.forEach((score, ind) => {
+          if (score.heroId === unique) {
+            indi.push(score);
+          }
+        });
+        ele.querySelector(".score").textContent =
+          indi.length > 0 ? indi[0].score : "0";
+      });
       scores = data;
     })
     .catch((error) => console.log("error", error));

@@ -182,9 +182,44 @@ body {
   padding-left: 6px;
   padding-bottom: 8px;
 }
+img {
+  object-fit: cover;
+}
 
 .capacity:hover {
+  z-index: 10;
+  /* opacity: 0.3; */
   transform: scale(2, 2);
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+.enemy-btn,
+.player-btn,
+.view-btn {
+  display: flex;
+  justify-content: center;
+  padding: 2px;
+  /* height: 15px; */
+  width: 100%;
+}
+.enemy-btn > span,
+.player-btn > span,
+.view-btn > span {
+  font-size: 7px;
+  margin: 1px;
+  margin: auto;
+}
+
+.capacity:hover .centered {
+  display: block;
+}
+.capacity:hover .capacity-img {
+  opacity: 0.7;
 }
 
 .Bottom-names {
