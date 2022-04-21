@@ -18,7 +18,7 @@ fetch(
       if (element.imageLink) {
         strength.push(element);
 
-        let domImage = `<div class="capacity"              data-unique="0${index}"
+        let domImage = `<div class="capacity"     data-start="0"   id="${element.id}"       data-unique="0${index}"
         data-id=${element.id}     data-into = "${index}"
         >
         <div class="score"></div>
@@ -51,7 +51,7 @@ fetch(
     data.agility.forEach((element, index) => {
       if (element.imageLink) {
         agility.push(element);
-        let domImage = `<div class="capacity"               data-unique="1${index}"
+        let domImage = `<div class="capacity"    id="${element.id}"    data-start="1"        data-unique="1${index}"
         data-id=${element.id}  data-into = "${index}"
         >
         <div class="score"></div>
@@ -85,7 +85,7 @@ fetch(
     data.intelligence.forEach((element, index) => {
       if (element.imageLink) {
         intelligence.push(element);
-        let domImage = `<div class="capacity" data-unique="2${index}" data-id=${element.id} data-into="${index}">
+        let domImage = `<div class="capacity"  id="${element.id}" data-unique="2${index}" data-start="2" data-id=${element.id} data-into="${index}">
         <div class="score"></div>
 
         <img class="capacity-img" src="${element.imageLink}" alt="" data-start="2" data-into="${index}" />
@@ -117,29 +117,156 @@ fetch(
 
 let selectedCharArr = [];
 let selectedCharArrEnemy = [];
+
+const OnSelect = () => {
+  let list = document.querySelectorAll(".left-card");
+  list.forEach((ele, index) => {
+    // console.log(ele.querySelector(".centered"));
+    ele
+      .querySelector(".centered")
+      .childNodes[1].addEventListener("click", () => {
+        if (
+          selectedCharArr.length - 1 === index ||
+          selectedCharArr.length - 1 > index
+        ) {
+          console.log(selectedCharArr, index);
+          removeFromList("left", index);
+        }
+      });
+
+    ele
+      .querySelector(".centered")
+      .childNodes[3].addEventListener("click", () => {
+        if (
+          selectedCharArr.length - 1 === index ||
+          selectedCharArr.length - 1 > index
+        ) {
+          updateDetailsCard(
+            selectedCharArr[index].id,
+            selectedCharArr[index].imageLink,
+            selectedCharArr[index]
+          );
+        }
+      });
+  });
+  let listright = document.querySelectorAll(".right-card");
+  listright.forEach((ele, index) => {
+    ele
+      .querySelector(".centered")
+      .childNodes[1].addEventListener("click", () => {
+        if (
+          selectedCharArrEnemy.length - 1 === index ||
+          selectedCharArrEnemy.length - 1 > index
+        ) {
+          console.log(selectedCharArrEnemy, index);
+          removeFromList("right", index);
+        }
+      });
+    ele
+      .querySelector(".centered")
+      .childNodes[3].addEventListener("click", () => {
+        if (
+          selectedCharArrEnemy.length - 1 === index ||
+          selectedCharArrEnemy.length - 1 > index
+        ) {
+          console.log(selectedCharArrEnemy, index);
+          updateDetailsCard(
+            selectedCharArrEnemy[index].id,
+            selectedCharArrEnemy[index].imageLink,
+            selectedCharArrEnemy[index]
+          );
+        }
+      });
+  });
+};
+OnSelect();
+
+const removeFromList = (name, index) => {
+  let m = [];
+  if (name === "left") {
+    selectedCharArr = selectedCharArr.filter((ele, indexList) => {
+      if (index !== indexList) {
+        return true;
+      }
+      return false;
+    });
+    console.log(selectedCharArr);
+  }
+  if (name === "right") {
+    selectedCharArrEnemy = selectedCharArrEnemy.filter((ele, indexList) => {
+      if (index !== indexList) {
+        return true;
+      }
+      return false;
+    });
+    console.log(selectedCharArrEnemy);
+  }
+  if (selectedCharArr.length === 5 && selectedCharArrEnemy.length === 5) {
+    document.querySelectorAll(".capacity").forEach((ele1) => {
+      let unique = ele1.getAttribute("data-unique");
+      if (!uniqueD.includes(unique)) {
+        ele1.style.opacity = "0.4";
+      }
+    });
+  } else {
+    document.querySelectorAll(".capacity").forEach((ele1) => {
+      let unique = ele1.getAttribute("data-unique");
+      if (!uniqueD.includes(unique)) {
+        ele1.style.opacity = "1";
+      }
+    });
+  }
+  updateSelectedImage();
+};
+
 const updateSelectedImage = () => {
-  let list = document.querySelectorAll(".left-card  ");
+  let list = document.querySelectorAll(".left-card");
   selectedCharArr.forEach((ele, index) => {
     // console.log(ele.childNodes);
     // if(index )
-    list[index].querySelector(".score").textContent = ele.score;
+    // list[index].querySelector(".score").textContent = ele.score;
     list[index].querySelector("img").src = ele.imageLink;
     list[index].querySelector(".card-text").textContent = ele.name;
+    list[index].classList.add("hover_effect");
   });
 
   let listright = document.querySelectorAll(".right-card");
   selectedCharArrEnemy.forEach((ele, index) => {
     // console.log(ele.childNodes);
     // if(index )
-    listright[index].querySelector(".score").textContent = ele.score;
+    // listright[index].querySelector(".score").textContent = ele.score;
     listright[index].querySelector("img").src = ele.imageLink;
     listright[index].querySelector(".card-text").textContent = ele.name;
+    listright[index].classList.add("hover_effect");
   });
+
+  console.log(selectedCharArr.length, list.length);
+  if (selectedCharArr.length !== list.length) {
+    list.forEach((ele, index) => {
+      if (index > selectedCharArr.length || index === selectedCharArr.length) {
+        list[index].querySelector("img").src = "./placeholder.png";
+        list[index].querySelector(".card-text").textContent = "";
+        list[index].classList.remove("hover_effect");
+      }
+    });
+  }
+  if (selectedCharArrEnemy.length !== listright.length) {
+    listright.forEach((ele, index) => {
+      if (
+        index > selectedCharArrEnemy.length ||
+        index === selectedCharArrEnemy.length
+      ) {
+        listright[index].querySelector("img").src = "./placeholder.png";
+        listright[index].querySelector(".card-text").textContent = "";
+        listright[index].classList.remove("hover_effect");
+      }
+    });
+  }
 };
 updateSelectedImage();
 let uniqueD = [];
 const runAfterImageLoaded = () => {
-  putScore();
+  // putScore();
   console.log(allcharList);
   document.querySelectorAll(".capacity").forEach((ele, index) => {
     ele.querySelector(".enemy-btn").addEventListener("click", (e) => {
@@ -147,14 +274,17 @@ const runAfterImageLoaded = () => {
       let dataAttrStart = e.target.getAttribute("data-start");
       let dataAttrInto = e.target.getAttribute("data-into");
       let unique = e.target.parentNode.getAttribute("data-unique");
+      let id = e.target.getAttribute("data-id");
       let se =
         e.target.parentNode.parentNode.parentNode.querySelector("#selected");
+      document.querySelector(`#${id}`).style.opacity = "0.5";
       // updateDetailsCard(
       //   allcharList[dataAttrStart][dataAttrInto].id,
       //   allcharList[dataAttrStart][dataAttrInto].imageLink
       // );
+      putScore(allcharList[dataAttrStart][dataAttrInto].id);
       if (selectedCharArrEnemy.length < 5) {
-        se.classList.add("selected");
+        // se.classList.add("selected");
         // get score
         selectedScore = "0";
         scores.forEach((score) => {
@@ -167,6 +297,7 @@ const runAfterImageLoaded = () => {
           score: selectedScore,
           imageLink: allcharList[dataAttrStart][dataAttrInto].imageLink,
           name: allcharList[dataAttrStart][dataAttrInto].name,
+          id: id,
         });
         uniqueD.push(unique);
       }
@@ -185,14 +316,17 @@ const runAfterImageLoaded = () => {
       let dataAttrStart = e.target.getAttribute("data-start");
       let dataAttrInto = e.target.getAttribute("data-into");
       let unique = e.target.parentNode.getAttribute("data-unique");
+      let id = e.target.getAttribute("data-id");
       let se =
         e.target.parentNode.parentNode.parentNode.querySelector("#selected");
+      document.querySelector(`#${id}`).style.opacity = "0.5";
       // updateDetailsCard(
       //   allcharList[dataAttrStart][dataAttrInto].id,
       //   allcharList[dataAttrStart][dataAttrInto].imageLink
       // );
+      putScore(allcharList[dataAttrStart][dataAttrInto].id);
       if (selectedCharArr.length < 5) {
-        se.classList.add("selected");
+        // se.classList.add("selected");
         // get score
         selectedScore = "0";
         scores.forEach((score) => {
@@ -205,6 +339,7 @@ const runAfterImageLoaded = () => {
           score: selectedScore,
           imageLink: allcharList[dataAttrStart][dataAttrInto].imageLink,
           name: allcharList[dataAttrStart][dataAttrInto].name,
+          id: id,
         });
         uniqueD.push(unique);
       }
@@ -227,7 +362,8 @@ const runAfterImageLoaded = () => {
         e.target.parentNode.parentNode.parentNode.querySelector("#selected");
       updateDetailsCard(
         allcharList[dataAttrStart][dataAttrInto].id,
-        allcharList[dataAttrStart][dataAttrInto].imageLink
+        allcharList[dataAttrStart][dataAttrInto].imageLink,
+        allcharList[dataAttrStart][dataAttrInto]
       );
 
       if (selectedCharArr.length === 5 && selectedCharArrEnemy.length === 5) {
@@ -243,7 +379,8 @@ const runAfterImageLoaded = () => {
   });
 };
 
-const updateDetailsCard = (id, imageLink) => {
+const updateDetailsCard = (id, imageLink, allData) => {
+  document.querySelector("#suggestionPlayer").innerHTML = "";
   var requestOptions = {
     method: "GET",
     redirect: "follow",
@@ -262,38 +399,97 @@ const updateDetailsCard = (id, imageLink) => {
           finalHeroArr.push(ele);
         }
       });
-      console.log(finalHeroArr[0].relationShipHeroName);
-      document.querySelector("#right-name").textContent =
-        finalHeroArr[0].relationShipHeroName;
+
+      finalHeroArr.forEach((ele, index) => {
+        let imgLink = "";
+        document.querySelectorAll(".capacity").forEach((domEle) => {
+          let unique = domEle.getAttribute("data-id");
+          if (unique === ele.relationShipHeroId) {
+            let dataAttrStart = domEle.getAttribute("data-start");
+            let dataAttrInto = domEle.getAttribute("data-into");
+            console.log(dataAttrInto, dataAttrStart);
+            imgLink = allcharList[dataAttrStart][dataAttrInto].imageLink;
+          }
+        });
+        let backgroundColor = "red";
+        if (ele.relationShipType === "GoodAgainst") {
+          backgroundColor = "green";
+        }
+        if (ele.relationShipType === "WorksWellWith") {
+          backgroundColor = "yellow";
+        }
+        let html = ` <div class="card mt-2">
+        <div class="card-body" style="background-color: ${backgroundColor};flex:none">
+        <h5 class="text-center ">${ele.relationShipHeroName}</h5>
+          <div class="row">
+            <div class="col-4">
+              <img class="card-img-top"
+                src="${imgLink}"
+                alt="Card image cap">
+            </div>
+            <div class="col-8">
+              <div class="d-flex ">
+                <h5 class="card-title mt-auto mb-auto mr-2 mb-2">${ele.relationShipType}</h5>
+                <img class="Middle-img"
+                  src="${imageLink}" alt="" />
+              </div>
+
+              <p class="card-text">${ele.realtionShipDetails}</p>
+              <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+            </div>
+          </div>
+
+        </div>
+      </div>`;
+
+        $("#suggestionPlayer").append(html);
+      });
+
+      console.log(finalHeroArr);
+      document.querySelector("#right-name").textContent = allData.name;
 
       document.querySelector(".top-img").src = imageLink;
-      document.querySelector("#right-card-text").textContent =
-        finalHeroArr[0].realtionShipDetails;
-      console.log(finalHeroArr);
-      // console.log(data);
+      // document.querySelector("#right-card-text").textContent =
+      //   finalHeroArr[0].realtionShipDetails;
+      // console.log(finalHeroArr);
+      // // console.log(data);
 
-      console.log("testaa", finalHeroArr[0]);
-      document.querySelector("#l-name").textContent =
-        finalHeroArr[0].relationShipHeroName;
+      // console.log("testaa", finalHeroArr[0]);
+      // document.querySelector("#l-name").textContent =
+      //   finalHeroArr[0].relationShipHeroName;
     })
     .catch((error) => console.log("error", error));
 };
 
-const putScore = () => {
+const putScore = (id) => {
   var requestOptions = {
     method: "GET",
     redirect: "follow",
   };
 
   fetch(
-    `https://tsq7xh8kp0.execute-api.us-east-2.amazonaws.com/hero-counters?enemyHeroes=hero-1,hero-110`,
+    `https://tsq7xh8kp0.execute-api.us-east-2.amazonaws.com/hero-counters?enemyHeroes=${id}`,
     requestOptions
   )
     .then((response) => response.text())
     .then((result) => {
       let data = JSON.parse(result).response.counterHeroes;
       // let data = console.log("score");
-      console.log("scores", data);
+      // clear all hightlight users
+      document.querySelectorAll(".capacity").forEach((ele, index) => {
+        ele.querySelector(".capacity-img").style.border = "none";
+      });
+      // select top 10 score by highlight border
+      data.forEach((score, indexScore) => {
+        document.querySelectorAll(".capacity").forEach((ele, index) => {
+          if (indexScore < 10) {
+            let unique = ele.getAttribute("data-id");
+            if (unique === score.heroId) {
+              ele.querySelector(".capacity-img").style.border = "2px solid red";
+            }
+          }
+        });
+      });
       document.querySelectorAll(".capacity").forEach((ele, index) => {
         let unique = ele.getAttribute("data-id");
         let indi = [];
