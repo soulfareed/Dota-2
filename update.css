@@ -94,12 +94,19 @@ body {
 .hover_effect:hover .centered {
   display: block;
 }
+.hover_effect:hover .player-btn {
+  font-size: 7px;
+  margin: 1px;
+}
 
 /* .right-card:hover {
   scale: 1.4;
   margin-top: 20px;
   z-index: 20;
 } */
+.score {
+  /* display: none !important; */
+}
 .left-card > img {
   box-shadow: -3px -2px 20px 20px rgb(0 0 0 / 20%),
     0 2px 10px 0 rgb(0 0 0 / 19%);
@@ -206,7 +213,7 @@ img {
 }
 .centered {
   position: absolute;
-  top: 50%;
+  top: 34%;
   left: 50%;
   transform: translate(-50%, -50%);
   display: none;
@@ -390,7 +397,7 @@ ul {
   width: 20px;
   font-size: 9px;
   justify-content: center;
-  display: flex;
+  display: none;
   align-items: center;
   color: black;
   margin: 2px;

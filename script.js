@@ -216,6 +216,11 @@ const removeFromList = (name, index) => {
       }
     });
   }
+  if (selectedCharArr.length === 0 && selectedCharArrEnemy.length === 0) {
+    document.querySelectorAll(".capacity").forEach((ele, index) => {
+      ele.querySelector(".score").style.display = "none";
+    });
+  }
   updateSelectedImage();
 };
 
@@ -393,59 +398,196 @@ const updateDetailsCard = (id, imageLink, allData) => {
     .then((response) => response.text())
     .then((result) => {
       let data = JSON.parse(result);
-      let finalHeroArr = [];
-      data.forEach((ele, index) => {
-        if (ele.heroId === id) {
-          finalHeroArr.push(ele);
-        }
-      });
+      console.log("all data", data);
 
-      finalHeroArr.forEach((ele, index) => {
-        let imgLink = "";
-        document.querySelectorAll(".capacity").forEach((domEle) => {
-          let unique = domEle.getAttribute("data-id");
-          if (unique === ele.relationShipHeroId) {
-            let dataAttrStart = domEle.getAttribute("data-start");
-            let dataAttrInto = domEle.getAttribute("data-into");
-            console.log(dataAttrInto, dataAttrStart);
-            imgLink = allcharList[dataAttrStart][dataAttrInto].imageLink;
+      selectedCharArr.forEach((ele, index) => {
+        let finalHeroArr = {
+          details: "",
+          data: null,
+          roles: [],
+        };
+        data.forEach((hero, indexHero) => {
+          if (hero.relationShipHeroId === ele.id) {
+            finalHeroArr.data = hero;
+            finalHeroArr.details =
+              finalHeroArr.details + hero.realtionShipDetails + "<br><br>";
+            if (hero.abilityOrItemDetails) {
+              finalHeroArr.roles.push(hero.abilityOrItemDetails.imageLink);
+            }
           }
         });
-        let backgroundColor = "red";
-        if (ele.relationShipType === "GoodAgainst") {
-          backgroundColor = "green";
-        }
-        if (ele.relationShipType === "WorksWellWith") {
-          backgroundColor = "yellow";
-        }
-        let html = ` <div class="card mt-2">
-        <div class="card-body" style="background-color: ${backgroundColor};flex:none">
-        <h5 class="text-center ">${ele.relationShipHeroName}</h5>
-          <div class="row">
-            <div class="col-4">
-              <img class="card-img-top"
-                src="${imgLink}"
-                alt="Card image cap">
-            </div>
-            <div class="col-8">
-              <div class="d-flex ">
-                <h5 class="card-title mt-auto mb-auto mr-2 mb-2">${ele.relationShipType}</h5>
-                <img class="Middle-img"
-                  src="${imageLink}" alt="" />
+        console.log("matchd data", finalHeroArr);
+        if (finalHeroArr.data) {
+          let imgLink = "";
+          document.querySelectorAll(".capacity").forEach((domEle) => {
+            let unique = domEle.getAttribute("data-id");
+            if (unique === finalHeroArr.data.relationShipHeroId) {
+              let dataAttrStart = domEle.getAttribute("data-start");
+              let dataAttrInto = domEle.getAttribute("data-into");
+              console.log(dataAttrInto, dataAttrStart);
+              imgLink = allcharList[dataAttrStart][dataAttrInto].imageLink;
+            }
+          });
+          let backgroundColor = "red";
+          if (finalHeroArr.data.relationShipType === "GoodAgainst") {
+            backgroundColor = "green";
+          }
+          if (finalHeroArr.data.relationShipType === "WorksWellWith") {
+            backgroundColor = "#55552e";
+          }
+
+          let roles = "";
+          finalHeroArr.roles.forEach((m) => {
+            roles =
+              roles +
+              `
+          <img class="card-img-top"src="${m}" alt="Card image cap" style="width: 40px;
+          border-radius: 30px;">`;
+          });
+
+          let html = `
+        
+                <div class="card mt-3">
+                <img class="card-img-top" src="${imgLink}" alt="Card image cap" style="height:100px;">
+                <div class="card-body" style="background:${backgroundColor}">
+                  <div style="display:flex;justify-content: space-around;">
+                    <h5 class="card-title" style="text-align: center;
+              color: white;">${finalHeroArr.data.relationShipHeroName}</h5>
+                    <h5 class="card-title" style="text-align: center;
+              color: white;">${finalHeroArr.data.relationShipType}</h5>
+                  </div>
+                  <p class="card-text" style="color: white;">${finalHeroArr.details}</p>
+                  <div class="d-flex">
+                    <p style="margin-top: auto;
+                margin-bottom: auto;
+                margin-right: 10px;
+                ">Roles:</p>
+                    ${roles}
+                  </div>
+                </div>
               </div>
+                
+      `;
 
-              <p class="card-text">${ele.realtionShipDetails}</p>
-              <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-            </div>
-          </div>
-
-        </div>
-      </div>`;
-
-        $("#suggestionPlayer").append(html);
+          $("#suggestionPlayer").append(html);
+        }
       });
 
-      console.log(finalHeroArr);
+      selectedCharArrEnemy.forEach((ele, index) => {
+        let finalHeroArr = {
+          details: "",
+          data: null,
+          roles: [],
+        };
+        data.forEach((hero, indexHero) => {
+          if (hero.relationShipHeroId === ele.id) {
+            finalHeroArr.data = hero;
+            finalHeroArr.details =
+              finalHeroArr.details + hero.realtionShipDetails;
+            if (hero.abilityOrItemDetails) {
+              finalHeroArr.roles.push(hero.abilityOrItemDetails.imageLink);
+            }
+          }
+        });
+        console.log("matchd data", finalHeroArr);
+        if (finalHeroArr.data) {
+          let imgLink = "";
+          document.querySelectorAll(".capacity").forEach((domEle) => {
+            let unique = domEle.getAttribute("data-id");
+            if (unique === finalHeroArr.data.relationShipHeroId) {
+              let dataAttrStart = domEle.getAttribute("data-start");
+              let dataAttrInto = domEle.getAttribute("data-into");
+              console.log(dataAttrInto, dataAttrStart);
+              imgLink = allcharList[dataAttrStart][dataAttrInto].imageLink;
+            }
+          });
+          let backgroundColor = "red";
+          if (finalHeroArr.data.relationShipType === "GoodAgainst") {
+            backgroundColor = "green";
+          }
+          if (finalHeroArr.data.relationShipType === "WorksWellWith") {
+            backgroundColor = "#55552e";
+          }
+
+          let roles = "";
+          finalHeroArr.roles.forEach((m) => {
+            roles =
+              roles +
+              `
+          <img class="card-img-top"src="${m}" alt="Card image cap" style="width: 40px;
+          border-radius: 30px;">`;
+          });
+
+          let html = `
+        
+                <div class="card mt-3">
+                <img class="card-img-top" src="${imgLink}" alt="Card image cap" style="height:100px;">
+                <div class="card-body" style="background:${backgroundColor}">
+                  <div style="display:flex;justify-content: space-around;">
+                    <h5 class="card-title" style="text-align: center;
+              color: white;">${finalHeroArr.data.relationShipHeroName}</h5>
+                    <h5 class="card-title" style="text-align: center;
+              color: white;">${finalHeroArr.data.relationShipType}</h5>
+                  </div>
+                  <p class="card-text" style="color: white;">${finalHeroArr.details}</p>
+                  <div class="d-flex">
+                    <p style="margin-top: auto;
+                margin-bottom: auto;
+                margin-right: 10px;
+                ">Roles:</p>
+                    ${roles}
+                  </div>
+                </div>
+              </div>
+                
+      `;
+
+          $("#suggestionPlayer").append(html);
+        }
+      });
+
+      // let finalHeroArr = [];
+      // data.forEach((ele, index) => {
+      //   if (ele.heroId === id) {
+      //     finalHeroArr.push(ele);
+      //   }
+      // });
+
+      // finalHeroArr.forEach((ele, index) => {
+      //         let imgLink = "";
+      //         document.querySelectorAll(".capacity").forEach((domEle) => {
+      //           let unique = domEle.getAttribute("data-id");
+      //           if (unique === ele.relationShipHeroId) {
+      //             let dataAttrStart = domEle.getAttribute("data-start");
+      //             let dataAttrInto = domEle.getAttribute("data-into");
+      //             console.log(dataAttrInto, dataAttrStart);
+      //             imgLink = allcharList[dataAttrStart][dataAttrInto].imageLink;
+      //           }
+      //         });
+      //         let backgroundColor = "red";
+      //         if (ele.relationShipType === "GoodAgainst") {
+      //           backgroundColor = "green";
+      //         }
+      //         if (ele.relationShipType === "WorksWellWith") {
+      //           backgroundColor = "yellow";
+      //         }
+      //         let html = `
+      //       <div class="card mt-3"  >
+      //     <img class="card-img-top"src="${imgLink}" alt="Card image cap" style="height:100px;">
+      //     <div class="card-body" style="background:${backgroundColor}">
+      //    <div style="display:flex;justify-content: space-around;"> <h5 class="card-title" style="text-align: center;
+      //    color: white;">${ele.relationShipHeroName}</h5>
+      //    <h5 class="card-title" style="text-align: center;
+      //    color: white;">${ele.relationShipType}</h5>
+      //    </div>
+      //     <p class="card-text" style="color: white;">${ele.realtionShipDetails}</p>
+      //   </div>
+      // </div>
+      //       `;
+      //         $("#suggestionPlayer").append(html);
+      // });
+
+      // console.log(finalHeroArr);
       document.querySelector("#right-name").textContent = allData.name;
 
       document.querySelector(".top-img").src = imageLink;
@@ -500,6 +642,7 @@ const putScore = (id) => {
         });
         ele.querySelector(".score").textContent =
           indi.length > 0 ? indi[0].score : "0";
+        ele.querySelector(".score").style.display = "flex";
       });
       scores = data;
     })
