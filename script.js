@@ -188,6 +188,8 @@ const removeFromList = (name, index) => {
       if (index !== indexList) {
         return true;
       }
+
+      document.querySelector(`#${ele.id}`).style.opacity = 1;
       return false;
     });
     console.log(selectedCharArr);
@@ -197,6 +199,7 @@ const removeFromList = (name, index) => {
       if (index !== indexList) {
         return true;
       }
+      document.querySelector(`#${ele.id}`).style.opacity = 1;
       return false;
     });
     console.log(selectedCharArrEnemy);
@@ -287,7 +290,23 @@ const runAfterImageLoaded = () => {
       //   allcharList[dataAttrStart][dataAttrInto].id,
       //   allcharList[dataAttrStart][dataAttrInto].imageLink
       // );
-      putScore(allcharList[dataAttrStart][dataAttrInto].id);
+      //create put score for enemy
+      let str = "";
+      selectedCharArrEnemy.forEach((ele, index) => {
+        if (index === 0) {
+          str = ele.id;
+        } else {
+          str = str + "," + ele.id;
+        }
+      });
+      if (selectedCharArrEnemy.length > 0) {
+        str = str + "," + allcharList[dataAttrStart][dataAttrInto].id;
+      } else {
+        str = allcharList[dataAttrStart][dataAttrInto].id;
+      }
+
+      console.log("str", str);
+      putScore(str);
       if (selectedCharArrEnemy.length < 5) {
         // se.classList.add("selected");
         // get score
@@ -406,11 +425,13 @@ const updateDetailsCard = (id, imageLink, allData) => {
           data: null,
           roles: [],
         };
+        let detailsSort = [];
         data.forEach((hero, indexHero) => {
           if (hero.relationShipHeroId === ele.id) {
             finalHeroArr.data = hero;
-            finalHeroArr.details =
-              finalHeroArr.details + hero.realtionShipDetails + "<br><br>";
+            detailsSort.push(hero.realtionShipDetails);
+            // finalHeroArr.details =
+            //   finalHeroArr.details + hero.realtionShipDetails + "<br><br>";
             if (hero.abilityOrItemDetails) {
               finalHeroArr.roles.push(hero.abilityOrItemDetails.imageLink);
             }
@@ -443,6 +464,11 @@ const updateDetailsCard = (id, imageLink, allData) => {
               `
           <img class="card-img-top"src="${m}" alt="Card image cap" style="width: 40px;
           border-radius: 30px;">`;
+          });
+
+          detailsSort = [...new Set(detailsSort)];
+          detailsSort.forEach((ele, index) => {
+            finalHeroArr.details = finalHeroArr.details + ele + "<br><br>";
           });
 
           let html = `
