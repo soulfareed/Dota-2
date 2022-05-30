@@ -1,0 +1,2723 @@
+[
+    {
+        "relationShipHeroName": "doom",
+        "relationShipHeroId": "hero-69",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5341",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/doom_bringer_infernal_blade.png"
+        },
+        "realtionShipDetails": " Infernal Blade's damage is calculated by percentage of maximum health, meaning that it will hurt Axe more than most normal attacks, negating some of his durability."
+    },
+    {
+        "relationShipHeroName": "doom",
+        "relationShipHeroId": "hero-69",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5339",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/doom_bringer_devour.png"
+        },
+        "realtionShipDetails": "Doom can pick up several different abilities from neutral creeps using  Devour, some of which can be annoying to Axe.\nMud Golem, Dark Troll Summoner, Harpy Stormcrafter, Satyr Mindstealer or Satyr Tormenter are good examples."
+    },
+    {
+        "relationShipHeroName": "doom",
+        "relationShipHeroId": "hero-69",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Mud Golem, Dark Troll Summoner, Harpy Stormcrafter, Satyr Mindstealer or Satyr Tormenter are good examples."
+    },
+    {
+        "relationShipHeroName": "doom",
+        "relationShipHeroId": "hero-69",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Doom's naturally low attack speed makes Counter Helix less likely to proc, and his high base health allows him to take a few Helixes with no danger."
+    },
+    {
+        "relationShipHeroName": "doom",
+        "relationShipHeroId": "hero-69",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5342",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/doom_bringer_doom.png"
+        },
+        "realtionShipDetails": " Doom makes Axe less disruptive, preventing him from using his skills or items. With  Aghanim's Scepter, Counter Helix is also disabled, making him effectively useless for a lengthy duration."
+    },
+    {
+        "relationShipHeroName": "doom",
+        "relationShipHeroId": "hero-69",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-109",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/aghanim's-scepter.png"
+        },
+        "realtionShipDetails": " Doom makes Axe less disruptive, preventing him from using his skills or items. With  Aghanim's Scepter, Counter Helix is also disabled, making him effectively useless for a lengthy duration."
+    },
+    {
+        "relationShipHeroName": "doom",
+        "relationShipHeroId": "hero-69",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Mud Golem, Dark Troll Summoner, Harpy Stormcrafter, Satyr Mindstealer or Satyr Tormenter are good examples."
+    },
+    {
+        "relationShipHeroName": "jakiro",
+        "relationShipHeroId": "hero-64",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5298",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/jakiro_ice_path.png"
+        },
+        "realtionShipDetails": " Ice Path neutralizes initiation attempts with Berserker's Call, and its long area of effect discourages follow-ups from Axe's teammates."
+    },
+    {
+        "relationShipHeroName": "jakiro",
+        "relationShipHeroId": "hero-64",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5298",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/jakiro_ice_path.png"
+        },
+        "realtionShipDetails": " Ice Path serves as a large obstacle to stop Axe from chasing down fleeing stragglers to kill with Culling Blade."
+    },
+    {
+        "relationShipHeroName": "jakiro",
+        "relationShipHeroId": "hero-64",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Jakiro's many damage-per-second skills prevent Axe from initiating with his Blink Dagger."
+    },
+    {
+        "relationShipHeroName": "lifestealer",
+        "relationShipHeroId": "hero-54",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5250",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/life_stealer_feast.png"
+        },
+        "realtionShipDetails": " Feast's lifesteal makes it nearly impossible for Axe to initiate and bring Lifestealer's health low enough for Culling Blade, even with many procs of Counter Helix."
+    },
+    {
+        "relationShipHeroName": "lifestealer",
+        "relationShipHeroId": "hero-54",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5250",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/life_stealer_feast.png"
+        },
+        "realtionShipDetails": " Feast's healing is calculated as a percentage of a target's max health, turning Axe's high health against him. This allows Lifestealer to trade against Axe much better than most other heroes."
+    },
+    {
+        "relationShipHeroName": "necrophos",
+        "relationShipHeroId": "hero-36",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5158",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/necrolyte_death_pulse.png"
+        },
+        "realtionShipDetails": "Frequent healing from  Death Pulse and  Mekansm makes it difficult for Axe to finish off targets with Culling Blade."
+    },
+    {
+        "relationShipHeroName": "necrophos",
+        "relationShipHeroId": "hero-36",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-91",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/mekansm.png"
+        },
+        "realtionShipDetails": "Frequent healing from  Death Pulse and  Mekansm makes it difficult for Axe to finish off targets with Culling Blade."
+    },
+    {
+        "relationShipHeroName": "necrophos",
+        "relationShipHeroId": "hero-36",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5160",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/necrolyte_sadist.png"
+        },
+        "realtionShipDetails": " Ghost Shroud's instant cast time allows Necrophos to turn ethereal before being initiated on by Berserker's Call. This prevents him from attacking Axe while taunted, thus lowering the chance to proc Counter Helix."
+    },
+    {
+        "relationShipHeroName": "necrophos",
+        "relationShipHeroId": "hero-36",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5159",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/necrolyte_heartstopper_aura.png"
+        },
+        "realtionShipDetails": "Axe's high health is relatively ineffective against  Heartstopper Aura's percentage-based health degeneration."
+    },
+    {
+        "relationShipHeroName": "necrophos",
+        "relationShipHeroId": "hero-36",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5161",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/necrolyte_reapers_scythe.png"
+        },
+        "realtionShipDetails": " Reaper's Scythe negates Axe's durability, and can kill him quickly after initiation."
+    },
+    {
+        "relationShipHeroName": "outworld_destroyer",
+        "relationShipHeroId": "hero-76",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Outworld Destroyer's pure and magical damage is particularly effective against Axe."
+    },
+    {
+        "relationShipHeroName": "outworld_destroyer",
+        "relationShipHeroId": "hero-76",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5392",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/obsidian_destroyer_astral_imprisonment.png"
+        },
+        "realtionShipDetails": " Astral Imprisonment is an excellent way to defend against an initiating Axe."
+    },
+    {
+        "relationShipHeroName": "outworld_destroyer",
+        "relationShipHeroId": "hero-76",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5394",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/obsidian_destroyer_sanity_eclipse.png"
+        },
+        "realtionShipDetails": " Sanity's Eclipse deals high damage to Axe due to his low mana pool."
+    },
+    {
+        "relationShipHeroName": "phoenix",
+        "relationShipHeroId": "hero-110",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5626",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phoenix_sun_ray.png"
+        },
+        "realtionShipDetails": " Sun Ray allows Phoenix to heal any allies caught in Berserker's Call, while burning away Axe's high HP at the same time."
+    },
+    {
+        "relationShipHeroName": "phoenix",
+        "relationShipHeroId": "hero-110",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5623",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phoenix_icarus_dive.png"
+        },
+        "realtionShipDetails": " Icarus Dive and  Fire Spirits puts Axe's Blink Dagger on cooldown."
+    },
+    {
+        "relationShipHeroName": "phoenix",
+        "relationShipHeroId": "hero-110",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5625",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phoenix_fire_spirits.png"
+        },
+        "realtionShipDetails": " Icarus Dive and  Fire Spirits puts Axe's Blink Dagger on cooldown."
+    },
+    {
+        "relationShipHeroName": "phoenix",
+        "relationShipHeroId": "hero-110",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5630",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phoenix_supernova.png"
+        },
+        "realtionShipDetails": "Axe's slow attack speed makes it difficult for him to destroy  Supernova on his own."
+    },
+    {
+        "relationShipHeroName": "pugna",
+        "relationShipHeroId": "hero-45",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5187",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/pugna_decrepify.png"
+        },
+        "realtionShipDetails": " Decrepify can be used on allies to prevent them from attacking Axe and triggering Counter Helix during Berserker's Call. He can also cast it on Axe to prevent anyone from attacking him."
+    },
+    {
+        "relationShipHeroName": "pugna",
+        "relationShipHeroId": "hero-45",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5189",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/pugna_life_drain.png"
+        },
+        "realtionShipDetails": " Life Drain can be used to heal himself or allies caught in Berserker's Call, preventing them from dropping low enough for Axe to kill them with Culling Blade."
+    },
+    {
+        "relationShipHeroName": "shadow_demon",
+        "relationShipHeroId": "hero-79",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5421",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shadow_demon_disruption.png"
+        },
+        "realtionShipDetails": " Disruption will save Shadow Demon's teammates from being killed by Counter Helix or Culling Blade."
+    },
+    {
+        "relationShipHeroName": "shadow_demon",
+        "relationShipHeroId": "hero-79",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5422",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shadow_demon_soul_catcher.png"
+        },
+        "realtionShipDetails": " Soul Catcher and  Shadow Poison can put Axe's Blink Dagger on cooldown."
+    },
+    {
+        "relationShipHeroName": "shadow_demon",
+        "relationShipHeroId": "hero-79",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5423",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shadow_demon_shadow_poison.png"
+        },
+        "realtionShipDetails": " Soul Catcher and  Shadow Poison can put Axe's Blink Dagger on cooldown."
+    },
+    {
+        "relationShipHeroName": "shadow_demon",
+        "relationShipHeroId": "hero-79",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5425",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shadow_demon_demonic_purge.png"
+        },
+        "realtionShipDetails": " Demonic Purge slows Axe to a crawl, making him nearly useless after initiating. If Shadow Demon has Aghanim's Scepter, it will also break Counter Helix."
+    },
+    {
+        "relationShipHeroName": "spectre",
+        "relationShipHeroId": "hero-67",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5336",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/spectre_dispersion.png"
+        },
+        "realtionShipDetails": " Dispersion makes Spectre very durable, making it much less likely for Axe to bring her low enough for Culling Blade."
+    },
+    {
+        "relationShipHeroName": "spectre",
+        "relationShipHeroId": "hero-67",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5334",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/spectre_spectral_dagger.png"
+        },
+        "realtionShipDetails": "Spectre can simply use  Spectral Dagger to escape against an Axe gank."
+    },
+    {
+        "relationShipHeroName": "timbersaw",
+        "relationShipHeroId": "hero-98",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5524",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_whirling_death.png"
+        },
+        "realtionShipDetails": " Whirling Death reduces Axe's strength by 15%, making him much less durable, especially in the early game. It is also stackable.\nAxe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+    },
+    {
+        "relationShipHeroName": "timbersaw",
+        "relationShipHeroId": "hero-98",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-119",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+        },
+        "realtionShipDetails": " Whirling Death reduces Axe's strength by 15%, making him much less durable, especially in the early game. It is also stackable.\nAxe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+    },
+    {
+        "relationShipHeroName": "timbersaw",
+        "relationShipHeroId": "hero-98",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5525",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_timber_chain.png"
+        },
+        "realtionShipDetails": " Whirling Death reduces Axe's strength by 15%, making him much less durable, especially in the early game. It is also stackable.\nAxe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+    },
+    {
+        "relationShipHeroName": "timbersaw",
+        "relationShipHeroId": "hero-98",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-119",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+        },
+        "realtionShipDetails": "Axe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+    },
+    {
+        "relationShipHeroName": "timbersaw",
+        "relationShipHeroId": "hero-98",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5525",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_timber_chain.png"
+        },
+        "realtionShipDetails": "Axe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+    },
+    {
+        "relationShipHeroName": "timbersaw",
+        "relationShipHeroId": "hero-98",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5526",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_reactive_armor.png"
+        },
+        "realtionShipDetails": " Reactive Armor's armor and regeneration makes it much harder for Axe to finish Timbersaw with Culling Blade."
+    },
+    {
+        "relationShipHeroName": "timbersaw",
+        "relationShipHeroId": "hero-98",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5527",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_chakram.png"
+        },
+        "realtionShipDetails": " Chakram disarms Timbersaw, making Counter Helix less effective."
+    },
+    {
+        "relationShipHeroName": "timbersaw",
+        "relationShipHeroId": "hero-98",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-119",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+        },
+        "realtionShipDetails": "Axe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+    },
+    {
+        "relationShipHeroName": "timbersaw",
+        "relationShipHeroId": "hero-98",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5525",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_timber_chain.png"
+        },
+        "realtionShipDetails": "Axe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+    },
+    {
+        "relationShipHeroName": "ursa",
+        "relationShipHeroId": "hero-70",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5360",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/ursa_enrage.png"
+        },
+        "realtionShipDetails": " Enrage reduces the damage from  Blade Mail and Counter Helix to a minimum, forcing Axe to play around Ursa's ultimate ability."
+    },
+    {
+        "relationShipHeroName": "ursa",
+        "relationShipHeroId": "hero-70",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-119",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+        },
+        "realtionShipDetails": " Enrage reduces the damage from  Blade Mail and Counter Helix to a minimum, forcing Axe to play around Ursa's ultimate ability."
+    },
+    {
+        "relationShipHeroName": "ursa",
+        "relationShipHeroId": "hero-70",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5358",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/ursa_overpower.png"
+        },
+        "realtionShipDetails": " Overpower and  Fury Swipes tear through Axe's low armor, even if he has relatively high health."
+    },
+    {
+        "relationShipHeroName": "ursa",
+        "relationShipHeroId": "hero-70",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5359",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/ursa_fury_swipes.png"
+        },
+        "realtionShipDetails": " Overpower and  Fury Swipes tear through Axe's low armor, even if he has relatively high health."
+    },
+    {
+        "relationShipHeroName": "undying",
+        "relationShipHeroId": "hero-85",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5442",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/undying_decay.png"
+        },
+        "realtionShipDetails": " Decay's stacking strength reduction makes Axe much less dominant in lane."
+    },
+    {
+        "relationShipHeroName": "undying",
+        "relationShipHeroId": "hero-85",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5444",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/undying_tombstone.png"
+        },
+        "realtionShipDetails": " Tombstone's zombies take no damage from Counter Helix, and will continuously put Axe's  Blink Dagger on cooldown until dealt with."
+    },
+    {
+        "relationShipHeroName": "undying",
+        "relationShipHeroId": "hero-85",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-52",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blink-dagger.png"
+        },
+        "realtionShipDetails": " Tombstone's zombies take no damage from Counter Helix, and will continuously put Axe's  Blink Dagger on cooldown until dealt with."
+    },
+    {
+        "relationShipHeroName": "venomancer",
+        "relationShipHeroId": "hero-40",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Venomancer's slows and magical damage-over-time work well against Axe's complete lack of mobility."
+    },
+    {
+        "relationShipHeroName": "venomancer",
+        "relationShipHeroId": "hero-40",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5180",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/venomancer_plague_ward.png"
+        },
+        "realtionShipDetails": " Plague Ward is especially useful for slowing down Axe, and revealing him before he initiates, as well as putting his  Blink Dagger on cooldown."
+    },
+    {
+        "relationShipHeroName": "venomancer",
+        "relationShipHeroId": "hero-40",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-52",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blink-dagger.png"
+        },
+        "realtionShipDetails": " Plague Ward is especially useful for slowing down Axe, and revealing him before he initiates, as well as putting his  Blink Dagger on cooldown."
+    },
+    {
+        "relationShipHeroName": "viper",
+        "relationShipHeroId": "hero-47",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5218",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/viper_poison_attack.png"
+        },
+        "realtionShipDetails": " Poison Attack and  Viper Strike slows Axe significantly, and puts his  Blink Dagger on cooldown, preventing him from initiating."
+    },
+    {
+        "relationShipHeroName": "viper",
+        "relationShipHeroId": "hero-47",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5221",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/viper_viper_strike.png"
+        },
+        "realtionShipDetails": " Poison Attack and  Viper Strike slows Axe significantly, and puts his  Blink Dagger on cooldown, preventing him from initiating."
+    },
+    {
+        "relationShipHeroName": "viper",
+        "relationShipHeroId": "hero-47",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-52",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blink-dagger.png"
+        },
+        "realtionShipDetails": " Poison Attack and  Viper Strike slows Axe significantly, and puts his  Blink Dagger on cooldown, preventing him from initiating."
+    },
+    {
+        "relationShipHeroName": "viper",
+        "relationShipHeroId": "hero-47",
+        "relationShipType": "BadAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5219",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/viper_nethertoxin.png"
+        },
+        "realtionShipDetails": " Nethertoxin can break Counter Helix."
+    },
+    {
+        "relationShipHeroName": "bristleback",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-99",
+        "relationShipType": "BadAgainst",
+        "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "crystal maiden",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-5",
+        "relationShipType": "BadAgainst",
+        "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "batrider",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-65",
+        "relationShipType": "BadAgainst",
+        "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "arc warden",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-113",
+        "relationShipType": "BadAgainst",
+        "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "winter wyvern",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-112",
+        "relationShipType": "BadAgainst",
+        "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "clockwerk",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-51",
+        "relationShipType": "BadAgainst",
+        "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "drow ranger",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-6",
+        "relationShipType": "BadAgainst",
+        "realtionShipDetails": "Ranged heroes that can easily harass Axe:  Drow Ranger,  Sniper,  Lion.",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "sniper",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-35",
+        "relationShipType": "BadAgainst",
+        "realtionShipDetails": "Ranged heroes that can easily harass Axe:  Drow Ranger,  Sniper,  Lion.",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "lion",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-26",
+        "relationShipType": "BadAgainst",
+        "realtionShipDetails": "Ranged heroes that can easily harass Axe:  Drow Ranger,  Sniper,  Lion.",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "abaddon",
+        "relationShipHeroId": "hero-102",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5588",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/abaddon_borrowed_time.png"
+        },
+        "realtionShipDetails": "Culling Blade ignores  Borrowed Time should Abaddon's health falls under the threshold."
+    },
+    {
+        "relationShipHeroName": "antimage",
+        "relationShipHeroId": "hero-1",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5004",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/antimage_blink.png"
+        },
+        "realtionShipDetails": "Berserker's Call is one of the most reliable ways to lock down Anti-Mage, preventing him from  Blinking away."
+    },
+    {
+        "relationShipHeroName": "antimage",
+        "relationShipHeroId": "hero-1",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-129",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/manta-style.png"
+        },
+        "realtionShipDetails": "Anti-Mage's high attack speed, along with illusions from  Manta Style, triggers Counter Helix continuously."
+    },
+    {
+        "relationShipHeroName": "antimage",
+        "relationShipHeroId": "hero-1",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5006",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/antimage_mana_void.png"
+        },
+        "realtionShipDetails": "Axe's low mana pool and high health pool makes  Mana Void deal very little damage to Axe."
+    },
+    {
+        "relationShipHeroName": "broodmother",
+        "relationShipHeroId": "hero-61",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Berserker's Call can catch Broodmother in her web, as well as groups of spiderlings. This is particularly effective when Broodmother attempts to push towers with her spiderlings."
+    },
+    {
+        "relationShipHeroName": "broodmother",
+        "relationShipHeroId": "hero-61",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Counter Helix destroys spiderlings very quickly, and earns Axe a good deal of gold."
+    },
+    {
+        "relationShipHeroName": "chaos_knight",
+        "relationShipHeroId": "hero-81",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5429",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/chaos_knight_phantasm.png"
+        },
+        "realtionShipDetails": "Berserker's Call and Counter Helix makes short work of Chaos Knight's  Phantasms."
+    },
+    {
+        "relationShipHeroName": "dazzle",
+        "relationShipHeroId": "hero-50",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5234",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dazzle_shallow_grave.png"
+        },
+        "realtionShipDetails": "Culling Blade ignores the protection from  Shallow Grave, and will kill any target whose health is low enough. This makes Axe one of the hardest counters to Dazzle, and he neutralizes one of Dazzle's most important abilities."
+    },
+    {
+        "relationShipHeroName": "huskar",
+        "relationShipHeroId": "hero-59",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5273",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/huskar_berserkers_blood.png"
+        },
+        "realtionShipDetails": "Huskar is often played at low health to maximize the bonuses from  Berserker's Blood, and also because his abilities cost health to use. This makes him especially vulnerable to Culling Blade."
+    },
+    {
+        "relationShipHeroName": "huskar",
+        "relationShipHeroId": "hero-59",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5273",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/huskar_berserkers_blood.png"
+        },
+        "realtionShipDetails": " Berserker's Blood gives Huskar no protection against the pure damage of Culling Blade. Its attack speed bonus also means that Counter Helix will proc more often."
+    },
+    {
+        "relationShipHeroName": "huskar",
+        "relationShipHeroId": "hero-59",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5272",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/huskar_burning_spear.png"
+        },
+        "realtionShipDetails": "Axe's tankiness and base health regeneration makes it hard for Huskar to take him down with  Burning Spears."
+    },
+    {
+        "relationShipHeroName": "morphling",
+        "relationShipHeroId": "hero-10",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5052",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/morphling_waveform.png"
+        },
+        "realtionShipDetails": "Jumping on Axe with  Waveform will make Morphling an easy target for a counter-initiation with Berserker's Call."
+    },
+    {
+        "relationShipHeroName": "morphling",
+        "relationShipHeroId": "hero-10",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5055",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/morphling_morph_agi.png"
+        },
+        "realtionShipDetails": "Morphling is often played at low health to maximize the bonuses from  Attribute Shift (Agility Gain), and also because his abilities cost health to use. This makes him especially vulnerable to Culling Blade.\nHowever, Morphling is common  Linken's Sphere carrier to block Culling Blade forces Axe to use Battle Hunger to pop the Spell Block first."
+    },
+    {
+        "relationShipHeroName": "morphling",
+        "relationShipHeroId": "hero-10",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-128",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/linken's-sphere.png"
+        },
+        "realtionShipDetails": "Morphling is often played at low health to maximize the bonuses from  Attribute Shift (Agility Gain), and also because his abilities cost health to use. This makes him especially vulnerable to Culling Blade.\nHowever, Morphling is common  Linken's Sphere carrier to block Culling Blade forces Axe to use Battle Hunger to pop the Spell Block first."
+    },
+    {
+        "relationShipHeroName": "morphling",
+        "relationShipHeroId": "hero-10",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-128",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/linken's-sphere.png"
+        },
+        "realtionShipDetails": "However, Morphling is common  Linken's Sphere carrier to block Culling Blade forces Axe to use Battle Hunger to pop the Spell Block first."
+    },
+    {
+        "relationShipHeroName": "morphling",
+        "relationShipHeroId": "hero-10",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5055",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/morphling_morph_agi.png"
+        },
+        "realtionShipDetails": " Attribute Shift (Agility Gain) gives Morphlig no protection against the pure damage of Culling Blade. Its attack speed bonus also means that Counter Helix will proc more often."
+    },
+    {
+        "relationShipHeroName": "morphling",
+        "relationShipHeroId": "hero-10",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-128",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/linken's-sphere.png"
+        },
+        "realtionShipDetails": "However, Morphling is common  Linken's Sphere carrier to block Culling Blade forces Axe to use Battle Hunger to pop the Spell Block first."
+    },
+    {
+        "relationShipHeroName": "nature's_prophet",
+        "relationShipHeroId": "hero-53",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5245",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/furion_sprout.png"
+        },
+        "realtionShipDetails": "Berserker's Call and Counter Helix will still hit targets inside of a defensive  Sprout."
+    },
+    {
+        "relationShipHeroName": "nature's_prophet",
+        "relationShipHeroId": "hero-53",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Counter Helix clears treants in no time."
+    },
+    {
+        "relationShipHeroName": "nature's_prophet",
+        "relationShipHeroId": "hero-53",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Nature's Prophet's low damage is unlikely to hurt Axe until the very late game."
+    },
+    {
+        "relationShipHeroName": "nature's_prophet",
+        "relationShipHeroId": "hero-53",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Nature's Prophet's low mobility makes him very easy for Axe to chase down or initiate on, especially when affected by Battle Hunger."
+    },
+    {
+        "relationShipHeroName": "phantom_assassin",
+        "relationShipHeroId": "hero-44",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5191",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phantom_assassin_phantom_strike.png"
+        },
+        "realtionShipDetails": " Phantom Strike's extra attack speed causes Phantom Assassin to proc Counter Helix more often. Using it on Axe also makes Phantom Assassin an easy target for a counter-initiation with Berserker's Call and  Blade Mail."
+    },
+    {
+        "relationShipHeroName": "phantom_assassin",
+        "relationShipHeroId": "hero-44",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-119",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+        },
+        "realtionShipDetails": " Phantom Strike's extra attack speed causes Phantom Assassin to proc Counter Helix more often. Using it on Axe also makes Phantom Assassin an easy target for a counter-initiation with Berserker's Call and  Blade Mail."
+    },
+    {
+        "relationShipHeroName": "phantom_assassin",
+        "relationShipHeroId": "hero-44",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-125",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/black-king-bar.png"
+        },
+        "realtionShipDetails": "Most of Axe's abilities pierce  Black King Bar, allowing him to lock down Phantom Assassin at any time."
+    },
+    {
+        "relationShipHeroName": "phantom_assassin",
+        "relationShipHeroId": "hero-44",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-119",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+        },
+        "realtionShipDetails": "Berserker's Call greatly reduces Phantom Assassin's ability to crit hard against Axe, and may cause her to kill herself when used with  Blade Mail."
+    },
+    {
+        "relationShipHeroName": "phantom_lancer",
+        "relationShipHeroId": "hero-12",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Berserker's Call catches Phantom Lancer when he is hidden among his illusions."
+    },
+    {
+        "relationShipHeroName": "phantom_lancer",
+        "relationShipHeroId": "hero-12",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Counter Helix quickly destroys Phantom Lancer's illusion army. The more illusions there are, the more often Counter Helix is triggered."
+    },
+    {
+        "relationShipHeroName": "phantom_lancer",
+        "relationShipHeroId": "hero-12",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Phantom Lancer's low early game health makes him an easy target for Culling Blade."
+    },
+    {
+        "relationShipHeroName": "slark",
+        "relationShipHeroId": "hero-93",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5497",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/slark_shadow_dance.png"
+        },
+        "realtionShipDetails": "Berseker's Call catches Slark in  Shadow Dance, wasting its duration and preventing him from escaping to regenerate."
+    },
+    {
+        "relationShipHeroName": "slark",
+        "relationShipHeroId": "hero-93",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5494",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/slark_dark_pact.png"
+        },
+        "realtionShipDetails": "Unlike most disables,  Dark Pact cannot dispel Berserker's Call, and the output damage would be returned by  Blade Mail."
+    },
+    {
+        "relationShipHeroName": "slark",
+        "relationShipHeroId": "hero-93",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-119",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+        },
+        "realtionShipDetails": "Unlike most disables,  Dark Pact cannot dispel Berserker's Call, and the output damage would be returned by  Blade Mail."
+    },
+    {
+        "relationShipHeroName": "terrorblade",
+        "relationShipHeroId": "hero-109",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Terrorblade's low base health and lack of mobility make him an easy target for Axe to initiate on, and kill."
+    },
+    {
+        "relationShipHeroName": "terrorblade",
+        "relationShipHeroId": "hero-109",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Counter Helix will trigger from, and destroy many of Terrorblade illusions."
+    },
+    {
+        "relationShipHeroName": "troll_warlord",
+        "relationShipHeroId": "hero-95",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-119",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+        },
+        "realtionShipDetails": "Troll Warlord's high attack speed means Counter Helix will proc extremely frequently even without creeps near him. This, combined with a  Blade Mail means Axe can easily solo kill Troll Warlord even in later stages of the game."
+    },
+    {
+        "relationShipHeroName": "troll_warlord",
+        "relationShipHeroId": "hero-95",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5512",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/troll_warlord_battle_trance.png"
+        },
+        "realtionShipDetails": " Battle Trance does not save Troll Warlord from a Culling Blade."
+    },
+    {
+        "relationShipHeroName": "weaver",
+        "relationShipHeroId": "hero-63",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5292",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/weaver_time_lapse.png"
+        },
+        "realtionShipDetails": "Berserker's Call is one of the best ways to lock down Weaver before he has a chance to use  Time Lapse. It can also catch Weaver in  Shukuchi."
+    },
+    {
+        "relationShipHeroName": "weaver",
+        "relationShipHeroId": "hero-63",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5290",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/weaver_shukuchi.png"
+        },
+        "realtionShipDetails": "Berserker's Call is one of the best ways to lock down Weaver before he has a chance to use  Time Lapse. It can also catch Weaver in  Shukuchi."
+    },
+    {
+        "relationShipHeroName": "weaver",
+        "relationShipHeroId": "hero-63",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5291",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/weaver_geminate_attack.png"
+        },
+        "realtionShipDetails": "Weaver's high attack speed, along with high attack damage from  Geminate Attack, triggers Counter Helix continuously and the output damage would be returned by  Blade Mail."
+    },
+    {
+        "relationShipHeroName": "weaver",
+        "relationShipHeroId": "hero-63",
+        "relationShipType": "GoodAgainst",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-119",
+            [
+                {
+                    "relationShipHeroName": "doom",
+                    "relationShipHeroId": "hero-69",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5341",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/doom_bringer_infernal_blade.png"
+                    },
+                    "realtionShipDetails": " Infernal Blade's damage is calculated by percentage of maximum health, meaning that it will hurt Axe more than most normal attacks, negating some of his durability."
+                },
+                {
+                    "relationShipHeroName": "doom",
+                    "relationShipHeroId": "hero-69",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5339",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/doom_bringer_devour.png"
+                    },
+                    "realtionShipDetails": "Doom can pick up several different abilities from neutral creeps using  Devour, some of which can be annoying to Axe.\nMud Golem, Dark Troll Summoner, Harpy Stormcrafter, Satyr Mindstealer or Satyr Tormenter are good examples."
+                },
+                {
+                    "relationShipHeroName": "doom",
+                    "relationShipHeroId": "hero-69",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Mud Golem, Dark Troll Summoner, Harpy Stormcrafter, Satyr Mindstealer or Satyr Tormenter are good examples."
+                },
+                {
+                    "relationShipHeroName": "doom",
+                    "relationShipHeroId": "hero-69",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Doom's naturally low attack speed makes Counter Helix less likely to proc, and his high base health allows him to take a few Helixes with no danger."
+                },
+                {
+                    "relationShipHeroName": "doom",
+                    "relationShipHeroId": "hero-69",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5342",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/doom_bringer_doom.png"
+                    },
+                    "realtionShipDetails": " Doom makes Axe less disruptive, preventing him from using his skills or items. With  Aghanim's Scepter, Counter Helix is also disabled, making him effectively useless for a lengthy duration."
+                },
+                {
+                    "relationShipHeroName": "doom",
+                    "relationShipHeroId": "hero-69",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-109",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/aghanim's-scepter.png"
+                    },
+                    "realtionShipDetails": " Doom makes Axe less disruptive, preventing him from using his skills or items. With  Aghanim's Scepter, Counter Helix is also disabled, making him effectively useless for a lengthy duration."
+                },
+                {
+                    "relationShipHeroName": "doom",
+                    "relationShipHeroId": "hero-69",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Mud Golem, Dark Troll Summoner, Harpy Stormcrafter, Satyr Mindstealer or Satyr Tormenter are good examples."
+                },
+                {
+                    "relationShipHeroName": "jakiro",
+                    "relationShipHeroId": "hero-64",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5298",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/jakiro_ice_path.png"
+                    },
+                    "realtionShipDetails": " Ice Path neutralizes initiation attempts with Berserker's Call, and its long area of effect discourages follow-ups from Axe's teammates."
+                },
+                {
+                    "relationShipHeroName": "jakiro",
+                    "relationShipHeroId": "hero-64",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5298",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/jakiro_ice_path.png"
+                    },
+                    "realtionShipDetails": " Ice Path serves as a large obstacle to stop Axe from chasing down fleeing stragglers to kill with Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "jakiro",
+                    "relationShipHeroId": "hero-64",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Jakiro's many damage-per-second skills prevent Axe from initiating with his Blink Dagger."
+                },
+                {
+                    "relationShipHeroName": "lifestealer",
+                    "relationShipHeroId": "hero-54",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5250",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/life_stealer_feast.png"
+                    },
+                    "realtionShipDetails": " Feast's lifesteal makes it nearly impossible for Axe to initiate and bring Lifestealer's health low enough for Culling Blade, even with many procs of Counter Helix."
+                },
+                {
+                    "relationShipHeroName": "lifestealer",
+                    "relationShipHeroId": "hero-54",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5250",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/life_stealer_feast.png"
+                    },
+                    "realtionShipDetails": " Feast's healing is calculated as a percentage of a target's max health, turning Axe's high health against him. This allows Lifestealer to trade against Axe much better than most other heroes."
+                },
+                {
+                    "relationShipHeroName": "necrophos",
+                    "relationShipHeroId": "hero-36",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5158",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/necrolyte_death_pulse.png"
+                    },
+                    "realtionShipDetails": "Frequent healing from  Death Pulse and  Mekansm makes it difficult for Axe to finish off targets with Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "necrophos",
+                    "relationShipHeroId": "hero-36",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-91",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/mekansm.png"
+                    },
+                    "realtionShipDetails": "Frequent healing from  Death Pulse and  Mekansm makes it difficult for Axe to finish off targets with Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "necrophos",
+                    "relationShipHeroId": "hero-36",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5160",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/necrolyte_sadist.png"
+                    },
+                    "realtionShipDetails": " Ghost Shroud's instant cast time allows Necrophos to turn ethereal before being initiated on by Berserker's Call. This prevents him from attacking Axe while taunted, thus lowering the chance to proc Counter Helix."
+                },
+                {
+                    "relationShipHeroName": "necrophos",
+                    "relationShipHeroId": "hero-36",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5159",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/necrolyte_heartstopper_aura.png"
+                    },
+                    "realtionShipDetails": "Axe's high health is relatively ineffective against  Heartstopper Aura's percentage-based health degeneration."
+                },
+                {
+                    "relationShipHeroName": "necrophos",
+                    "relationShipHeroId": "hero-36",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5161",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/necrolyte_reapers_scythe.png"
+                    },
+                    "realtionShipDetails": " Reaper's Scythe negates Axe's durability, and can kill him quickly after initiation."
+                },
+                {
+                    "relationShipHeroName": "outworld_destroyer",
+                    "relationShipHeroId": "hero-76",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Outworld Destroyer's pure and magical damage is particularly effective against Axe."
+                },
+                {
+                    "relationShipHeroName": "outworld_destroyer",
+                    "relationShipHeroId": "hero-76",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5392",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/obsidian_destroyer_astral_imprisonment.png"
+                    },
+                    "realtionShipDetails": " Astral Imprisonment is an excellent way to defend against an initiating Axe."
+                },
+                {
+                    "relationShipHeroName": "outworld_destroyer",
+                    "relationShipHeroId": "hero-76",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5394",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/obsidian_destroyer_sanity_eclipse.png"
+                    },
+                    "realtionShipDetails": " Sanity's Eclipse deals high damage to Axe due to his low mana pool."
+                },
+                {
+                    "relationShipHeroName": "phoenix",
+                    "relationShipHeroId": "hero-110",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5626",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phoenix_sun_ray.png"
+                    },
+                    "realtionShipDetails": " Sun Ray allows Phoenix to heal any allies caught in Berserker's Call, while burning away Axe's high HP at the same time."
+                },
+                {
+                    "relationShipHeroName": "phoenix",
+                    "relationShipHeroId": "hero-110",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5623",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phoenix_icarus_dive.png"
+                    },
+                    "realtionShipDetails": " Icarus Dive and  Fire Spirits puts Axe's Blink Dagger on cooldown."
+                },
+                {
+                    "relationShipHeroName": "phoenix",
+                    "relationShipHeroId": "hero-110",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5625",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phoenix_fire_spirits.png"
+                    },
+                    "realtionShipDetails": " Icarus Dive and  Fire Spirits puts Axe's Blink Dagger on cooldown."
+                },
+                {
+                    "relationShipHeroName": "phoenix",
+                    "relationShipHeroId": "hero-110",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5630",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phoenix_supernova.png"
+                    },
+                    "realtionShipDetails": "Axe's slow attack speed makes it difficult for him to destroy  Supernova on his own."
+                },
+                {
+                    "relationShipHeroName": "pugna",
+                    "relationShipHeroId": "hero-45",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5187",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/pugna_decrepify.png"
+                    },
+                    "realtionShipDetails": " Decrepify can be used on allies to prevent them from attacking Axe and triggering Counter Helix during Berserker's Call. He can also cast it on Axe to prevent anyone from attacking him."
+                },
+                {
+                    "relationShipHeroName": "pugna",
+                    "relationShipHeroId": "hero-45",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5189",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/pugna_life_drain.png"
+                    },
+                    "realtionShipDetails": " Life Drain can be used to heal himself or allies caught in Berserker's Call, preventing them from dropping low enough for Axe to kill them with Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "shadow_demon",
+                    "relationShipHeroId": "hero-79",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5421",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shadow_demon_disruption.png"
+                    },
+                    "realtionShipDetails": " Disruption will save Shadow Demon's teammates from being killed by Counter Helix or Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "shadow_demon",
+                    "relationShipHeroId": "hero-79",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5422",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shadow_demon_soul_catcher.png"
+                    },
+                    "realtionShipDetails": " Soul Catcher and  Shadow Poison can put Axe's Blink Dagger on cooldown."
+                },
+                {
+                    "relationShipHeroName": "shadow_demon",
+                    "relationShipHeroId": "hero-79",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5423",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shadow_demon_shadow_poison.png"
+                    },
+                    "realtionShipDetails": " Soul Catcher and  Shadow Poison can put Axe's Blink Dagger on cooldown."
+                },
+                {
+                    "relationShipHeroName": "shadow_demon",
+                    "relationShipHeroId": "hero-79",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5425",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shadow_demon_demonic_purge.png"
+                    },
+                    "realtionShipDetails": " Demonic Purge slows Axe to a crawl, making him nearly useless after initiating. If Shadow Demon has Aghanim's Scepter, it will also break Counter Helix."
+                },
+                {
+                    "relationShipHeroName": "spectre",
+                    "relationShipHeroId": "hero-67",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5336",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/spectre_dispersion.png"
+                    },
+                    "realtionShipDetails": " Dispersion makes Spectre very durable, making it much less likely for Axe to bring her low enough for Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "spectre",
+                    "relationShipHeroId": "hero-67",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5334",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/spectre_spectral_dagger.png"
+                    },
+                    "realtionShipDetails": "Spectre can simply use  Spectral Dagger to escape against an Axe gank."
+                },
+                {
+                    "relationShipHeroName": "timbersaw",
+                    "relationShipHeroId": "hero-98",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5524",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_whirling_death.png"
+                    },
+                    "realtionShipDetails": " Whirling Death reduces Axe's strength by 15%, making him much less durable, especially in the early game. It is also stackable.\nAxe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+                },
+                {
+                    "relationShipHeroName": "timbersaw",
+                    "relationShipHeroId": "hero-98",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-119",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+                    },
+                    "realtionShipDetails": " Whirling Death reduces Axe's strength by 15%, making him much less durable, especially in the early game. It is also stackable.\nAxe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+                },
+                {
+                    "relationShipHeroName": "timbersaw",
+                    "relationShipHeroId": "hero-98",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5525",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_timber_chain.png"
+                    },
+                    "realtionShipDetails": " Whirling Death reduces Axe's strength by 15%, making him much less durable, especially in the early game. It is also stackable.\nAxe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+                },
+                {
+                    "relationShipHeroName": "timbersaw",
+                    "relationShipHeroId": "hero-98",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-119",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+                    },
+                    "realtionShipDetails": "Axe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+                },
+                {
+                    "relationShipHeroName": "timbersaw",
+                    "relationShipHeroId": "hero-98",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5525",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_timber_chain.png"
+                    },
+                    "realtionShipDetails": "Axe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+                },
+                {
+                    "relationShipHeroName": "timbersaw",
+                    "relationShipHeroId": "hero-98",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5526",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_reactive_armor.png"
+                    },
+                    "realtionShipDetails": " Reactive Armor's armor and regeneration makes it much harder for Axe to finish Timbersaw with Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "timbersaw",
+                    "relationShipHeroId": "hero-98",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5527",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_chakram.png"
+                    },
+                    "realtionShipDetails": " Chakram disarms Timbersaw, making Counter Helix less effective."
+                },
+                {
+                    "relationShipHeroName": "timbersaw",
+                    "relationShipHeroId": "hero-98",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-119",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+                    },
+                    "realtionShipDetails": "Axe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+                },
+                {
+                    "relationShipHeroName": "timbersaw",
+                    "relationShipHeroId": "hero-98",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5525",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/shredder_timber_chain.png"
+                    },
+                    "realtionShipDetails": "Axe's  Blade Mail is ineffective against attribute changes, and Timbersaw's mobility with  Timber Chain means he can wait out Blade Mail's duration."
+                },
+                {
+                    "relationShipHeroName": "ursa",
+                    "relationShipHeroId": "hero-70",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5360",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/ursa_enrage.png"
+                    },
+                    "realtionShipDetails": " Enrage reduces the damage from  Blade Mail and Counter Helix to a minimum, forcing Axe to play around Ursa's ultimate ability."
+                },
+                {
+                    "relationShipHeroName": "ursa",
+                    "relationShipHeroId": "hero-70",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-119",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+                    },
+                    "realtionShipDetails": " Enrage reduces the damage from  Blade Mail and Counter Helix to a minimum, forcing Axe to play around Ursa's ultimate ability."
+                },
+                {
+                    "relationShipHeroName": "ursa",
+                    "relationShipHeroId": "hero-70",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5358",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/ursa_overpower.png"
+                    },
+                    "realtionShipDetails": " Overpower and  Fury Swipes tear through Axe's low armor, even if he has relatively high health."
+                },
+                {
+                    "relationShipHeroName": "ursa",
+                    "relationShipHeroId": "hero-70",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5359",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/ursa_fury_swipes.png"
+                    },
+                    "realtionShipDetails": " Overpower and  Fury Swipes tear through Axe's low armor, even if he has relatively high health."
+                },
+                {
+                    "relationShipHeroName": "undying",
+                    "relationShipHeroId": "hero-85",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5442",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/undying_decay.png"
+                    },
+                    "realtionShipDetails": " Decay's stacking strength reduction makes Axe much less dominant in lane."
+                },
+                {
+                    "relationShipHeroName": "undying",
+                    "relationShipHeroId": "hero-85",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5444",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/undying_tombstone.png"
+                    },
+                    "realtionShipDetails": " Tombstone's zombies take no damage from Counter Helix, and will continuously put Axe's  Blink Dagger on cooldown until dealt with."
+                },
+                {
+                    "relationShipHeroName": "undying",
+                    "relationShipHeroId": "hero-85",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-52",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blink-dagger.png"
+                    },
+                    "realtionShipDetails": " Tombstone's zombies take no damage from Counter Helix, and will continuously put Axe's  Blink Dagger on cooldown until dealt with."
+                },
+                {
+                    "relationShipHeroName": "venomancer",
+                    "relationShipHeroId": "hero-40",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Venomancer's slows and magical damage-over-time work well against Axe's complete lack of mobility."
+                },
+                {
+                    "relationShipHeroName": "venomancer",
+                    "relationShipHeroId": "hero-40",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5180",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/venomancer_plague_ward.png"
+                    },
+                    "realtionShipDetails": " Plague Ward is especially useful for slowing down Axe, and revealing him before he initiates, as well as putting his  Blink Dagger on cooldown."
+                },
+                {
+                    "relationShipHeroName": "venomancer",
+                    "relationShipHeroId": "hero-40",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-52",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blink-dagger.png"
+                    },
+                    "realtionShipDetails": " Plague Ward is especially useful for slowing down Axe, and revealing him before he initiates, as well as putting his  Blink Dagger on cooldown."
+                },
+                {
+                    "relationShipHeroName": "viper",
+                    "relationShipHeroId": "hero-47",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5218",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/viper_poison_attack.png"
+                    },
+                    "realtionShipDetails": " Poison Attack and  Viper Strike slows Axe significantly, and puts his  Blink Dagger on cooldown, preventing him from initiating."
+                },
+                {
+                    "relationShipHeroName": "viper",
+                    "relationShipHeroId": "hero-47",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5221",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/viper_viper_strike.png"
+                    },
+                    "realtionShipDetails": " Poison Attack and  Viper Strike slows Axe significantly, and puts his  Blink Dagger on cooldown, preventing him from initiating."
+                },
+                {
+                    "relationShipHeroName": "viper",
+                    "relationShipHeroId": "hero-47",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-52",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blink-dagger.png"
+                    },
+                    "realtionShipDetails": " Poison Attack and  Viper Strike slows Axe significantly, and puts his  Blink Dagger on cooldown, preventing him from initiating."
+                },
+                {
+                    "relationShipHeroName": "viper",
+                    "relationShipHeroId": "hero-47",
+                    "relationShipType": "BadAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5219",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/viper_nethertoxin.png"
+                    },
+                    "realtionShipDetails": " Nethertoxin can break Counter Helix."
+                },
+                {
+                    "relationShipHeroName": "bristleback",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-99",
+                    "relationShipType": "BadAgainst",
+                    "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "crystal maiden",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-5",
+                    "relationShipType": "BadAgainst",
+                    "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "batrider",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-65",
+                    "relationShipType": "BadAgainst",
+                    "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "arc warden",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-113",
+                    "relationShipType": "BadAgainst",
+                    "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "winter wyvern",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-112",
+                    "relationShipType": "BadAgainst",
+                    "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "clockwerk",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-51",
+                    "relationShipType": "BadAgainst",
+                    "realtionShipDetails": "Heroes who can slow and kite Axe will severely inhibit his presence in fights:  Bristleback,  Crystal Maiden,  Batrider,  Arc Warden,  Winter Wyvern,  Clockwerk",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "drow ranger",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-6",
+                    "relationShipType": "BadAgainst",
+                    "realtionShipDetails": "Ranged heroes that can easily harass Axe:  Drow Ranger,  Sniper,  Lion.",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "sniper",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-35",
+                    "relationShipType": "BadAgainst",
+                    "realtionShipDetails": "Ranged heroes that can easily harass Axe:  Drow Ranger,  Sniper,  Lion.",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "lion",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-26",
+                    "relationShipType": "BadAgainst",
+                    "realtionShipDetails": "Ranged heroes that can easily harass Axe:  Drow Ranger,  Sniper,  Lion.",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "abaddon",
+                    "relationShipHeroId": "hero-102",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5588",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/abaddon_borrowed_time.png"
+                    },
+                    "realtionShipDetails": "Culling Blade ignores  Borrowed Time should Abaddon's health falls under the threshold."
+                },
+                {
+                    "relationShipHeroName": "antimage",
+                    "relationShipHeroId": "hero-1",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5004",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/antimage_blink.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call is one of the most reliable ways to lock down Anti-Mage, preventing him from  Blinking away."
+                },
+                {
+                    "relationShipHeroName": "antimage",
+                    "relationShipHeroId": "hero-1",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-129",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/manta-style.png"
+                    },
+                    "realtionShipDetails": "Anti-Mage's high attack speed, along with illusions from  Manta Style, triggers Counter Helix continuously."
+                },
+                {
+                    "relationShipHeroName": "antimage",
+                    "relationShipHeroId": "hero-1",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5006",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/antimage_mana_void.png"
+                    },
+                    "realtionShipDetails": "Axe's low mana pool and high health pool makes  Mana Void deal very little damage to Axe."
+                },
+                {
+                    "relationShipHeroName": "broodmother",
+                    "relationShipHeroId": "hero-61",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Berserker's Call can catch Broodmother in her web, as well as groups of spiderlings. This is particularly effective when Broodmother attempts to push towers with her spiderlings."
+                },
+                {
+                    "relationShipHeroName": "broodmother",
+                    "relationShipHeroId": "hero-61",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Counter Helix destroys spiderlings very quickly, and earns Axe a good deal of gold."
+                },
+                {
+                    "relationShipHeroName": "chaos_knight",
+                    "relationShipHeroId": "hero-81",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5429",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/chaos_knight_phantasm.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call and Counter Helix makes short work of Chaos Knight's  Phantasms."
+                },
+                {
+                    "relationShipHeroName": "dazzle",
+                    "relationShipHeroId": "hero-50",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5234",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dazzle_shallow_grave.png"
+                    },
+                    "realtionShipDetails": "Culling Blade ignores the protection from  Shallow Grave, and will kill any target whose health is low enough. This makes Axe one of the hardest counters to Dazzle, and he neutralizes one of Dazzle's most important abilities."
+                },
+                {
+                    "relationShipHeroName": "huskar",
+                    "relationShipHeroId": "hero-59",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5273",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/huskar_berserkers_blood.png"
+                    },
+                    "realtionShipDetails": "Huskar is often played at low health to maximize the bonuses from  Berserker's Blood, and also because his abilities cost health to use. This makes him especially vulnerable to Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "huskar",
+                    "relationShipHeroId": "hero-59",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5273",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/huskar_berserkers_blood.png"
+                    },
+                    "realtionShipDetails": " Berserker's Blood gives Huskar no protection against the pure damage of Culling Blade. Its attack speed bonus also means that Counter Helix will proc more often."
+                },
+                {
+                    "relationShipHeroName": "huskar",
+                    "relationShipHeroId": "hero-59",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5272",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/huskar_burning_spear.png"
+                    },
+                    "realtionShipDetails": "Axe's tankiness and base health regeneration makes it hard for Huskar to take him down with  Burning Spears."
+                },
+                {
+                    "relationShipHeroName": "morphling",
+                    "relationShipHeroId": "hero-10",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5052",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/morphling_waveform.png"
+                    },
+                    "realtionShipDetails": "Jumping on Axe with  Waveform will make Morphling an easy target for a counter-initiation with Berserker's Call."
+                },
+                {
+                    "relationShipHeroName": "morphling",
+                    "relationShipHeroId": "hero-10",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5055",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/morphling_morph_agi.png"
+                    },
+                    "realtionShipDetails": "Morphling is often played at low health to maximize the bonuses from  Attribute Shift (Agility Gain), and also because his abilities cost health to use. This makes him especially vulnerable to Culling Blade.\nHowever, Morphling is common  Linken's Sphere carrier to block Culling Blade forces Axe to use Battle Hunger to pop the Spell Block first."
+                },
+                {
+                    "relationShipHeroName": "morphling",
+                    "relationShipHeroId": "hero-10",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-128",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/linken's-sphere.png"
+                    },
+                    "realtionShipDetails": "Morphling is often played at low health to maximize the bonuses from  Attribute Shift (Agility Gain), and also because his abilities cost health to use. This makes him especially vulnerable to Culling Blade.\nHowever, Morphling is common  Linken's Sphere carrier to block Culling Blade forces Axe to use Battle Hunger to pop the Spell Block first."
+                },
+                {
+                    "relationShipHeroName": "morphling",
+                    "relationShipHeroId": "hero-10",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-128",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/linken's-sphere.png"
+                    },
+                    "realtionShipDetails": "However, Morphling is common  Linken's Sphere carrier to block Culling Blade forces Axe to use Battle Hunger to pop the Spell Block first."
+                },
+                {
+                    "relationShipHeroName": "morphling",
+                    "relationShipHeroId": "hero-10",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5055",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/morphling_morph_agi.png"
+                    },
+                    "realtionShipDetails": " Attribute Shift (Agility Gain) gives Morphlig no protection against the pure damage of Culling Blade. Its attack speed bonus also means that Counter Helix will proc more often."
+                },
+                {
+                    "relationShipHeroName": "morphling",
+                    "relationShipHeroId": "hero-10",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-128",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/linken's-sphere.png"
+                    },
+                    "realtionShipDetails": "However, Morphling is common  Linken's Sphere carrier to block Culling Blade forces Axe to use Battle Hunger to pop the Spell Block first."
+                },
+                {
+                    "relationShipHeroName": "nature's_prophet",
+                    "relationShipHeroId": "hero-53",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5245",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/furion_sprout.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call and Counter Helix will still hit targets inside of a defensive  Sprout."
+                },
+                {
+                    "relationShipHeroName": "nature's_prophet",
+                    "relationShipHeroId": "hero-53",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Counter Helix clears treants in no time."
+                },
+                {
+                    "relationShipHeroName": "nature's_prophet",
+                    "relationShipHeroId": "hero-53",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Nature's Prophet's low damage is unlikely to hurt Axe until the very late game."
+                },
+                {
+                    "relationShipHeroName": "nature's_prophet",
+                    "relationShipHeroId": "hero-53",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Nature's Prophet's low mobility makes him very easy for Axe to chase down or initiate on, especially when affected by Battle Hunger."
+                },
+                {
+                    "relationShipHeroName": "phantom_assassin",
+                    "relationShipHeroId": "hero-44",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5191",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/phantom_assassin_phantom_strike.png"
+                    },
+                    "realtionShipDetails": " Phantom Strike's extra attack speed causes Phantom Assassin to proc Counter Helix more often. Using it on Axe also makes Phantom Assassin an easy target for a counter-initiation with Berserker's Call and  Blade Mail."
+                },
+                {
+                    "relationShipHeroName": "phantom_assassin",
+                    "relationShipHeroId": "hero-44",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-119",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+                    },
+                    "realtionShipDetails": " Phantom Strike's extra attack speed causes Phantom Assassin to proc Counter Helix more often. Using it on Axe also makes Phantom Assassin an easy target for a counter-initiation with Berserker's Call and  Blade Mail."
+                },
+                {
+                    "relationShipHeroName": "phantom_assassin",
+                    "relationShipHeroId": "hero-44",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-125",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/black-king-bar.png"
+                    },
+                    "realtionShipDetails": "Most of Axe's abilities pierce  Black King Bar, allowing him to lock down Phantom Assassin at any time."
+                },
+                {
+                    "relationShipHeroName": "phantom_assassin",
+                    "relationShipHeroId": "hero-44",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-119",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call greatly reduces Phantom Assassin's ability to crit hard against Axe, and may cause her to kill herself when used with  Blade Mail."
+                },
+                {
+                    "relationShipHeroName": "phantom_lancer",
+                    "relationShipHeroId": "hero-12",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Berserker's Call catches Phantom Lancer when he is hidden among his illusions."
+                },
+                {
+                    "relationShipHeroName": "phantom_lancer",
+                    "relationShipHeroId": "hero-12",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Counter Helix quickly destroys Phantom Lancer's illusion army. The more illusions there are, the more often Counter Helix is triggered."
+                },
+                {
+                    "relationShipHeroName": "phantom_lancer",
+                    "relationShipHeroId": "hero-12",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Phantom Lancer's low early game health makes him an easy target for Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "slark",
+                    "relationShipHeroId": "hero-93",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5497",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/slark_shadow_dance.png"
+                    },
+                    "realtionShipDetails": "Berseker's Call catches Slark in  Shadow Dance, wasting its duration and preventing him from escaping to regenerate."
+                },
+                {
+                    "relationShipHeroName": "slark",
+                    "relationShipHeroId": "hero-93",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5494",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/slark_dark_pact.png"
+                    },
+                    "realtionShipDetails": "Unlike most disables,  Dark Pact cannot dispel Berserker's Call, and the output damage would be returned by  Blade Mail."
+                },
+                {
+                    "relationShipHeroName": "slark",
+                    "relationShipHeroId": "hero-93",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-119",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+                    },
+                    "realtionShipDetails": "Unlike most disables,  Dark Pact cannot dispel Berserker's Call, and the output damage would be returned by  Blade Mail."
+                },
+                {
+                    "relationShipHeroName": "terrorblade",
+                    "relationShipHeroId": "hero-109",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Terrorblade's low base health and lack of mobility make him an easy target for Axe to initiate on, and kill."
+                },
+                {
+                    "relationShipHeroName": "terrorblade",
+                    "relationShipHeroId": "hero-109",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Counter Helix will trigger from, and destroy many of Terrorblade illusions."
+                },
+                {
+                    "relationShipHeroName": "troll_warlord",
+                    "relationShipHeroId": "hero-95",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-119",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+                    },
+                    "realtionShipDetails": "Troll Warlord's high attack speed means Counter Helix will proc extremely frequently even without creeps near him. This, combined with a  Blade Mail means Axe can easily solo kill Troll Warlord even in later stages of the game."
+                },
+                {
+                    "relationShipHeroName": "troll_warlord",
+                    "relationShipHeroId": "hero-95",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5512",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/troll_warlord_battle_trance.png"
+                    },
+                    "realtionShipDetails": " Battle Trance does not save Troll Warlord from a Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "weaver",
+                    "relationShipHeroId": "hero-63",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5292",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/weaver_time_lapse.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call is one of the best ways to lock down Weaver before he has a chance to use  Time Lapse. It can also catch Weaver in  Shukuchi."
+                },
+                {
+                    "relationShipHeroName": "weaver",
+                    "relationShipHeroId": "hero-63",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5290",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/weaver_shukuchi.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call is one of the best ways to lock down Weaver before he has a chance to use  Time Lapse. It can also catch Weaver in  Shukuchi."
+                },
+                {
+                    "relationShipHeroName": "weaver",
+                    "relationShipHeroId": "hero-63",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5291",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/weaver_geminate_attack.png"
+                    },
+                    "realtionShipDetails": "Weaver's high attack speed, along with high attack damage from  Geminate Attack, triggers Counter Helix continuously and the output damage would be returned by  Blade Mail."
+                },
+                {
+                    "relationShipHeroName": "weaver",
+                    "relationShipHeroId": "hero-63",
+                    "relationShipType": "GoodAgainst",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-119",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+                    },
+                    "realtionShipDetails": "Weaver's high attack speed, along with high attack damage from  Geminate Attack, triggers Counter Helix continuously and the output damage would be returned by  Blade Mail."
+                },
+                {
+                    "relationShipHeroName": "meepo",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-82",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Melee heroes who rely on summons, illusions or clones will trigger Counter Helix more often, thus taking more damage:  Meepo,  Lycan,  Chaos Knight,  Phantom Lancer",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "lycan",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-77",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Melee heroes who rely on summons, illusions or clones will trigger Counter Helix more often, thus taking more damage:  Meepo,  Lycan,  Chaos Knight,  Phantom Lancer",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "chaos knight",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-81",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Melee heroes who rely on summons, illusions or clones will trigger Counter Helix more often, thus taking more damage:  Meepo,  Lycan,  Chaos Knight,  Phantom Lancer",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "phantom lancer",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-12",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Melee heroes who rely on summons, illusions or clones will trigger Counter Helix more often, thus taking more damage:  Meepo,  Lycan,  Chaos Knight,  Phantom Lancer",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "faceless void",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-41",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "troll warlord",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-95",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "anti-mage",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-1",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "juggernaut",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-8",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "arc warden",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-113",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "morphling",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-10",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "phantom assassin",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-44",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "faceless void",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-41",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "slark",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-93",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "chaos knight",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-81",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "morphling",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-10",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "queen of pain",
+                    "heroId": "hero-2",
+                    "relationShipHeroId": "hero-39",
+                    "relationShipType": "GoodAgainst",
+                    "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+                    "abilityOrItemId": null
+                },
+                {
+                    "relationShipHeroName": "ancient_apparition",
+                    "relationShipHeroId": "hero-68",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5348",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/ancient_apparition_ice_blast.png"
+                    },
+                    "realtionShipDetails": " Ice Blast prevents healing, allowing Axe to easily kill his enemies with Culling Blade. Should Axe fail to cull his enemies, the Shatter may help secure the kill."
+                },
+                {
+                    "relationShipHeroName": "dark_seer",
+                    "relationShipHeroId": "hero-55",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5255",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dark_seer_vacuum.png"
+                    },
+                    "realtionShipDetails": " Vacuum sets up enemies for Berserker's Call."
+                },
+                {
+                    "relationShipHeroName": "dark_seer",
+                    "relationShipHeroId": "hero-55",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5256",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dark_seer_ion_shell.png"
+                    },
+                    "realtionShipDetails": " Ion Shell helps Axe deal more damage when enemies are taunted and attacking him."
+                },
+                {
+                    "relationShipHeroName": "dark_seer",
+                    "relationShipHeroId": "hero-55",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5257",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dark_seer_surge.png"
+                    },
+                    "realtionShipDetails": " Surge helps Axe chase down enemies during the early game for a Berserker's Call."
+                },
+                {
+                    "relationShipHeroName": "dazzle",
+                    "relationShipHeroId": "hero-50",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5234",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dazzle_shallow_grave.png"
+                    },
+                    "realtionShipDetails": "Dazzle helps Axe survive the initiation by providing armor, heals and using  Shallow Grave to save him or delay his death."
+                },
+                {
+                    "relationShipHeroName": "enigma",
+                    "relationShipHeroId": "hero-33",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5148",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/enigma_midnight_pulse.png"
+                    },
+                    "realtionShipDetails": "Axe's initiation will give Enigma enough time and room to set up  Midnight Pulse and  Black Hole, dealing massive damage to his enemies and disabling them for a very long duration. This also works against spell immune enemies, as the mentioned abilities all pierce spell immunity."
+                },
+                {
+                    "relationShipHeroName": "enigma",
+                    "relationShipHeroId": "hero-33",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5149",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/enigma_black_hole.png"
+                    },
+                    "realtionShipDetails": "Axe's initiation will give Enigma enough time and room to set up  Midnight Pulse and  Black Hole, dealing massive damage to his enemies and disabling them for a very long duration. This also works against spell immune enemies, as the mentioned abilities all pierce spell immunity."
+                },
+                {
+                    "relationShipHeroName": "disruptor",
+                    "relationShipHeroId": "hero-87",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5460",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/disruptor_kinetic_field.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call sets up an easy  Kinetic Field and  Static Storm combo for Disruptor, locking down mobile heroes like  Storm Spirit or  Anti-Mage."
+                },
+                {
+                    "relationShipHeroName": "disruptor",
+                    "relationShipHeroId": "hero-87",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5461",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/disruptor_static_storm.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call sets up an easy  Kinetic Field and  Static Storm combo for Disruptor, locking down mobile heroes like  Storm Spirit or  Anti-Mage."
+                },
+                {
+                    "relationShipHeroName": "magnus",
+                    "relationShipHeroId": "hero-97",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5521",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/magnataur_reverse_polarity.png"
+                    },
+                    "realtionShipDetails": " Reverse Polarity puts all affected enemies onto a single point, giving Axe the perfect opportunity to use Berserker's Call."
+                },
+                {
+                    "relationShipHeroName": "phoenix",
+                    "relationShipHeroId": "hero-110",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Berserker's Call allows Phoenix to easily land all of it's abilities, particularly Sun Ray and Supernova."
+                },
+                {
+                    "relationShipHeroName": "sand_king",
+                    "relationShipHeroId": "hero-16",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5105",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/sandking_epicenter.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call gives Sand King the time to channel and land  Epicenter."
+                },
+                {
+                    "relationShipHeroName": "skywrath_mage",
+                    "relationShipHeroId": "hero-101",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5584",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/skywrath_mage_mystic_flare.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call prevents enemies from moving out of  Mystic Flare's small radius, forcing them to take full damage."
+                },
+                {
+                    "relationShipHeroName": "tiny",
+                    "relationShipHeroId": "hero-19",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5107",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/tiny_toss.png"
+                    },
+                    "realtionShipDetails": "Tiny can  Toss Axe into a group of enemies for instant initiation. This is especially useful before Axe has a  Blink Dagger."
+                },
+                {
+                    "relationShipHeroName": "tiny",
+                    "relationShipHeroId": "hero-19",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "item-52",
+                        "relationShipRecordType": "Item",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blink-dagger.png"
+                    },
+                    "realtionShipDetails": "Tiny can  Toss Axe into a group of enemies for instant initiation. This is especially useful before Axe has a  Blink Dagger."
+                },
+                {
+                    "relationShipHeroName": "venomancer",
+                    "relationShipHeroId": "hero-40",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": null,
+                    "realtionShipDetails": "Venomancer's numerous slows and damage over time can turn multiple enemy heroes into vulnerable targets for Culling Blade."
+                },
+                {
+                    "relationShipHeroName": "witch_doctor",
+                    "relationShipHeroId": "hero-30",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5140",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/witch_doctor_maledict.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call makes it much easier to target  Maledict's small AoE, and usually ensures at least one kill with  Death Ward."
+                },
+                {
+                    "relationShipHeroName": "witch_doctor",
+                    "relationShipHeroId": "hero-30",
+                    "relationShipType": "WorksWellWith",
+                    "abilityOrItemDetails": {
+                        "abilityOrItemId": "ability-5141",
+                        "relationShipRecordType": "Ability",
+                        "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/witch_doctor_death_ward.png"
+                    },
+                    "realtionShipDetails": "Berserker's Call makes it much easier to target  Maledict's small AoE, and usually ensures at least one kill with  Death Ward."
+                }
+            ]      "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blade-mail.png"
+        },
+        "realtionShipDetails": "Weaver's high attack speed, along with high attack damage from  Geminate Attack, triggers Counter Helix continuously and the output damage would be returned by  Blade Mail."
+    },
+    {
+        "relationShipHeroName": "meepo",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-82",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Melee heroes who rely on summons, illusions or clones will trigger Counter Helix more often, thus taking more damage:  Meepo,  Lycan,  Chaos Knight,  Phantom Lancer",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "lycan",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-77",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Melee heroes who rely on summons, illusions or clones will trigger Counter Helix more often, thus taking more damage:  Meepo,  Lycan,  Chaos Knight,  Phantom Lancer",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "chaos knight",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-81",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Melee heroes who rely on summons, illusions or clones will trigger Counter Helix more often, thus taking more damage:  Meepo,  Lycan,  Chaos Knight,  Phantom Lancer",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "phantom lancer",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-12",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Melee heroes who rely on summons, illusions or clones will trigger Counter Helix more often, thus taking more damage:  Meepo,  Lycan,  Chaos Knight,  Phantom Lancer",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "faceless void",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-41",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "troll warlord",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-95",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "anti-mage",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-1",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "juggernaut",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-8",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "arc warden",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-113",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "morphling",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-10",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes who rely on fast attack speed will also trigger Counter Helix frequently:  Faceless Void,  Troll Warlord,  Anti-Mage,  Juggernaut,  Arc Warden,  Morphling",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "phantom assassin",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-44",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "faceless void",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-41",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "slark",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-93",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "chaos knight",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-81",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "morphling",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-10",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "queen of pain",
+        "heroId": "hero-2",
+        "relationShipHeroId": "hero-39",
+        "relationShipType": "GoodAgainst",
+        "realtionShipDetails": "Heroes with gap closing abilities will be easy targets for Berserker's Call:  Phantom Assassin,  Faceless Void,  Slark,  Chaos Knight,  Morphling,  Queen of Pain",
+        "abilityOrItemId": null
+    },
+    {
+        "relationShipHeroName": "ancient_apparition",
+        "relationShipHeroId": "hero-68",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5348",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/ancient_apparition_ice_blast.png"
+        },
+        "realtionShipDetails": " Ice Blast prevents healing, allowing Axe to easily kill his enemies with Culling Blade. Should Axe fail to cull his enemies, the Shatter may help secure the kill."
+    },
+    {
+        "relationShipHeroName": "dark_seer",
+        "relationShipHeroId": "hero-55",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5255",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dark_seer_vacuum.png"
+        },
+        "realtionShipDetails": " Vacuum sets up enemies for Berserker's Call."
+    },
+    {
+        "relationShipHeroName": "dark_seer",
+        "relationShipHeroId": "hero-55",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5256",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dark_seer_ion_shell.png"
+        },
+        "realtionShipDetails": " Ion Shell helps Axe deal more damage when enemies are taunted and attacking him."
+    },
+    {
+        "relationShipHeroName": "dark_seer",
+        "relationShipHeroId": "hero-55",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5257",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dark_seer_surge.png"
+        },
+        "realtionShipDetails": " Surge helps Axe chase down enemies during the early game for a Berserker's Call."
+    },
+    {
+        "relationShipHeroName": "dazzle",
+        "relationShipHeroId": "hero-50",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5234",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/dazzle_shallow_grave.png"
+        },
+        "realtionShipDetails": "Dazzle helps Axe survive the initiation by providing armor, heals and using  Shallow Grave to save him or delay his death."
+    },
+    {
+        "relationShipHeroName": "enigma",
+        "relationShipHeroId": "hero-33",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5148",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/enigma_midnight_pulse.png"
+        },
+        "realtionShipDetails": "Axe's initiation will give Enigma enough time and room to set up  Midnight Pulse and  Black Hole, dealing massive damage to his enemies and disabling them for a very long duration. This also works against spell immune enemies, as the mentioned abilities all pierce spell immunity."
+    },
+    {
+        "relationShipHeroName": "enigma",
+        "relationShipHeroId": "hero-33",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5149",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/enigma_black_hole.png"
+        },
+        "realtionShipDetails": "Axe's initiation will give Enigma enough time and room to set up  Midnight Pulse and  Black Hole, dealing massive damage to his enemies and disabling them for a very long duration. This also works against spell immune enemies, as the mentioned abilities all pierce spell immunity."
+    },
+    {
+        "relationShipHeroName": "disruptor",
+        "relationShipHeroId": "hero-87",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5460",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/disruptor_kinetic_field.png"
+        },
+        "realtionShipDetails": "Berserker's Call sets up an easy  Kinetic Field and  Static Storm combo for Disruptor, locking down mobile heroes like  Storm Spirit or  Anti-Mage."
+    },
+    {
+        "relationShipHeroName": "disruptor",
+        "relationShipHeroId": "hero-87",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5461",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/disruptor_static_storm.png"
+        },
+        "realtionShipDetails": "Berserker's Call sets up an easy  Kinetic Field and  Static Storm combo for Disruptor, locking down mobile heroes like  Storm Spirit or  Anti-Mage."
+    },
+    {
+        "relationShipHeroName": "magnus",
+        "relationShipHeroId": "hero-97",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5521",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/magnataur_reverse_polarity.png"
+        },
+        "realtionShipDetails": " Reverse Polarity puts all affected enemies onto a single point, giving Axe the perfect opportunity to use Berserker's Call."
+    },
+    {
+        "relationShipHeroName": "phoenix",
+        "relationShipHeroId": "hero-110",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Berserker's Call allows Phoenix to easily land all of it's abilities, particularly Sun Ray and Supernova."
+    },
+    {
+        "relationShipHeroName": "sand_king",
+        "relationShipHeroId": "hero-16",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5105",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/sandking_epicenter.png"
+        },
+        "realtionShipDetails": "Berserker's Call gives Sand King the time to channel and land  Epicenter."
+    },
+    {
+        "relationShipHeroName": "skywrath_mage",
+        "relationShipHeroId": "hero-101",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5584",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/skywrath_mage_mystic_flare.png"
+        },
+        "realtionShipDetails": "Berserker's Call prevents enemies from moving out of  Mystic Flare's small radius, forcing them to take full damage."
+    },
+    {
+        "relationShipHeroName": "tiny",
+        "relationShipHeroId": "hero-19",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5107",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/tiny_toss.png"
+        },
+        "realtionShipDetails": "Tiny can  Toss Axe into a group of enemies for instant initiation. This is especially useful before Axe has a  Blink Dagger."
+    },
+    {
+        "relationShipHeroName": "tiny",
+        "relationShipHeroId": "hero-19",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "item-52",
+            "relationShipRecordType": "Item",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/items/blink-dagger.png"
+        },
+        "realtionShipDetails": "Tiny can  Toss Axe into a group of enemies for instant initiation. This is especially useful before Axe has a  Blink Dagger."
+    },
+    {
+        "relationShipHeroName": "venomancer",
+        "relationShipHeroId": "hero-40",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": null,
+        "realtionShipDetails": "Venomancer's numerous slows and damage over time can turn multiple enemy heroes into vulnerable targets for Culling Blade."
+    },
+    {
+        "relationShipHeroName": "witch_doctor",
+        "relationShipHeroId": "hero-30",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5140",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/witch_doctor_maledict.png"
+        },
+        "realtionShipDetails": "Berserker's Call makes it much easier to target  Maledict's small AoE, and usually ensures at least one kill with  Death Ward."
+    },
+    {
+        "relationShipHeroName": "witch_doctor",
+        "relationShipHeroId": "hero-30",
+        "relationShipType": "WorksWellWith",
+        "abilityOrItemDetails": {
+            "abilityOrItemId": "ability-5141",
+            "relationShipRecordType": "Ability",
+            "imageLink": "https://s3-us-east-2.amazonaws.com/dota2.draftpicker/abilities/witch_doctor_death_ward.png"
+        },
+        "realtionShipDetails": "Berserker's Call makes it much easier to target  Maledict's small AoE, and usually ensures at least one kill with  Death Ward."
+    }
+]

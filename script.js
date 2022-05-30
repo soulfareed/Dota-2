@@ -480,7 +480,7 @@ const updateDetailsCard = (id, imageLink, allData) => {
                     <h5 class="card-title" style="text-align: center;
               color: white;">${finalHeroArr.data.relationShipHeroName}</h5>
                     <h5 class="card-title" style="text-align: center;
-              color: white;">${finalHeroArr.data.relationShipType}</h5>
+                    color: white;">${finalHeroArr.data.relationShipType}</h5>
                   </div>
                   <p class="card-text" style="color: white;">${finalHeroArr.details}</p>
                   <div class="d-flex">
@@ -528,11 +528,12 @@ const updateDetailsCard = (id, imageLink, allData) => {
             }
           });
           let backgroundColor = "red";
-          if (finalHeroArr.data.relationShipType === "GoodAgainst") {
-            backgroundColor = "green";
-          }
+
           if (finalHeroArr.data.relationShipType === "WorksWellWith") {
             backgroundColor = "#55552e";
+          }
+          if (finalHeroArr.data.relationShipType === "GoodAgainst") {
+            backgroundColor = "green";
           }
 
           let roles = "";
@@ -551,9 +552,9 @@ const updateDetailsCard = (id, imageLink, allData) => {
                 <div class="card-body" style="background:${backgroundColor}">
                   <div style="display:flex;justify-content: space-around;">
                     <h5 class="card-title" style="text-align: center;
-              color: white;">${finalHeroArr.data.relationShipHeroName}</h5>
+              color: white;"> ${finalHeroArr.data.relationShipType} </h5>
                     <h5 class="card-title" style="text-align: center;
-              color: white;">${finalHeroArr.data.relationShipType}</h5>
+              color: white;"> ${finalHeroArr.data.relationShipHeroName} </h5>
                   </div>
                   <p class="card-text" style="color: white;">${finalHeroArr.details}</p>
                   <div class="d-flex">
